@@ -98,8 +98,8 @@ Production bots running on CF edge + Anthropic API. Mental health support, campa
 Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts. No BS.
 
 - **[VibeCoder](https://vibe.osintnet.uk)** — AI app builder
-- **[AiecoSense](https://aiecosense.com)** — Environmental AI
-- **[VoxTerrae](https://voxterrae.app)** — Geospatial voice platform
+- **[AiecoSense](https://aiecosense.com)** — Environmental justice AI
+- **[VoxTerrae](https://voxterrae.app)** — Multilingual conflict intelligence
 - **[WarheatMap](https://warheatmap.app)** — Conflict zone mapping
 
 </td>
