@@ -77,7 +77,6 @@ Real-time intelligence platforms tracking facial recognition contracts, geopolit
 - **[FaceHeatMap](https://faceheatmap.app)** — FR tracker, 85 entries
 - **[StraitTracker](https://tracker.warheatmap.app)** — Hormuz intel
 - **[WarHeatMap](https://warheatmap.app)** — War zone heatmap
-- **[CapWatch](https://private-host)** — Capitol monitoring
 - **[EdgeIntel](https://intel.osintnet.uk)** — OSINT aggregator
 
 </td>
@@ -98,11 +97,11 @@ Production bots running on CF edge + Anthropic API. Mental health support, campa
 ### ⚡ Edge Applications
 Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts. No BS.
 
-- **[Indica Radio](https://private-host)** — Pirate radio
-- **[CoinCode](https://private-host)** — BTC gating
-- **[TradeDeck](https://private-host)** — Swing trade desk
-- **[Warchest](https://private-host)** — Portfolio tracker
 - **[VibeCoder](https://vibe.osintnet.uk)** — AI app builder
+- **[Section X](https://lsv.osintnet.uk)** — Sports & community hub
+- **[AiecoSense](https://aiecosense.com)** — Environmental AI
+- **[VoxTerrae](https://voxterrae.app)** — Geospatial voice platform
+- **[WarheatMap](https://warheatmap.app)** — Conflict zone mapping
 
 </td>
 </tr>
