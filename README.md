@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=720&height=65&lines=OSINT+Researcher+%F0%9F%94%8D;Edge+Developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon;Building+tools+for+the+vulnerable;65+CF+Workers+%7C+38+Custom+Domains;Cloudflare+%2B+Claude+%2B+Bitcoin)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=indicaindependent&color=ef4444&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -32,7 +33,7 @@ Stack:  Cloudflare Workers + D1 + KV + R2
         AT Protocol (Bluesky)  |  Discord.js  |  Bitcoin
         Python  |  JavaScript  |  HTML/CSS
 
-Running: 65 CF Workers  |  38 Custom Domains  |  5 Cron Triggers
+Running: 57 CF Workers  |  38 Custom Domains  |  5 Cron Triggers
 ```
 
 ---
