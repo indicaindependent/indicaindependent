@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=720&height=65&lines=OSINT+Researcher+%F0%9F%94%8D;Edge+Developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon;Building+tools+for+the+vulnerable;65+CF+Workers+%7C+38+Custom+Domains;Cloudflare+%2B+Claude+%2B+Bitcoin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=720&height=65&lines=OSINT+Researcher+%F0%9F%94%8D;Edge+Developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon;Building+tools+for+the+vulnerable;Workers+%C2%B7+Durable+Objects+%C2%B7+R2)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS COUNTER -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -29,11 +29,10 @@ Mission: Use information and technology to defend marginalized people
          against powerful entities. Knowledge is the weapon.
 
 Stack:  Cloudflare Workers + D1 + KV + R2
-        Anthropic Claude (claude-opus-4-7)
-        AT Protocol (Bluesky)  |  Discord.js  |  Bitcoin
+        Anthropic Claude
+        AT Protocol (Bluesky)  |  Discord.js
         Python  |  JavaScript  |  HTML/CSS
 
-Running: 57 CF Workers  |  38 Custom Domains  |  5 Cron Triggers
 ```
 
 ---
@@ -58,7 +57,6 @@ Running: 57 CF Workers  |  38 Custom Domains  |  5 Cron Triggers
 
 **Protocols & Platforms**
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Bluesky](https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -169,6 +167,6 @@ Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts
 ---
 
 <div align="center">
-<sub>Built on Cloudflare's global edge. Powered by Anthropic Claude. Sovereign Bitcoin stack.</sub><br/>
+<sub>Built on Cloudflare's global edge. Powered by Anthropic Claude.</sub><br/>
 <sub>All tools built for the mission. Some open source. All built with conviction.</sub>
 </div>
