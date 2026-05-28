@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ Who I Am
+## 🛡️ Who's Behind This
 
 ```
 Peter McVries — Staten Island, NYC
@@ -128,7 +128,7 @@ Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=indicaindependent&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![IIM Trophies](https://trophy.osintnet.uk/?username=indicaindependent)](https://github.com/indicaindependent)
 
 </div>
 
