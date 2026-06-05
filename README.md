@@ -24,15 +24,18 @@
 
 ```
 Peter McVries — Staten Island, NYC
-Member: VPDLNY (Vulnerable Persons Defense League of New York)
-Mission: Use information and technology to defend marginalized people
-         against powerful entities. Knowledge is the weapon.
 
-Stack:  Cloudflare Workers + D1 + KV + R2
-        Anthropic Claude
-        AT Protocol (Bluesky)  |  Discord.js
-        Python  |  JavaScript  |  HTML/CSS
+Independent researcher, data scientist, and edge developer. Early Bitcoin
+miner and long-horizon investor turned builder of open intelligence tools.
+I work where information becomes leverage: surveillance accountability,
+geopolitical conflict tracking, and financial intelligence — shipped as
+fast, sovereign, serverless infrastructure anyone can use for free.
 
+Affiliation:  VPDLNY
+Principle:    Information is the weapon. Tools belong to the vulnerable.
+
+Stack:  Cloudflare Workers · D1 · KV · R2 · Durable Objects
+        Anthropic Claude  |  Python · JavaScript · TypeScript
 ```
 
 ---
@@ -70,40 +73,40 @@ Stack:  Cloudflare Workers + D1 + KV + R2
 <tr>
 <td width="33%" valign="top">
 
-### 🔍 OSINT Tools
-Real-time intelligence platforms tracking facial recognition contracts, geopolitical flashpoints, and surveillance infrastructure.
+### 🛰️ Intelligence Platforms
+Real-time OSINT systems that turn open data into accountability — surveillance contracts, conflict flashpoints, and maritime chokepoints.
 
-- **[FaceHeatMap](https://faceheatmap.app)** — FR tracker, 85 entries
-- **[StraitTracker](https://tracker.warheatmap.app)** — Hormuz intel
-- **[WarHeatMap](https://warheatmap.app)** — War zone heatmap
-- **[EdgeIntel](https://intel.osintnet.uk)** — OSINT aggregator
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI Bots & Automation
-Production bots running on CF edge + Anthropic API. Mental health support, campaign automation, community moderation.
-
-- **VibesMom** — Bluesky mental health bot
-- **IIM Discord** — Community bot
-- **EggAI** — Membership security
-- **VibeCoder** — App builder bot
-- **BTCTips** — Lightning/BTC tipping
+- **[WarHeatMap](https://warheatmap.app)** — live geopolitical conflict heatmap
+- **[StraitTracker](https://tracker.warheatmap.app)** — Strait of Hormuz vessel & energy intel
+- **[FaceHeatMap](https://faceheatmap.app)** — facial-recognition contract tracker
+- **[VoxTerrae](https://voxterrae.app)** — multilingual conflict-zone intelligence
 
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Edge Applications
-Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts. No BS.
+### 📊 Financial Intelligence
+Quantitative tools that read geopolitics as a market signal — free, no-login, no-ads, built for everyone Wall Street ignores.
 
-- **[VibeCoder](https://vibe.osintnet.uk)** — AI app builder
-- **[AiecoSense](https://aiecosense.com)** — Environmental justice AI
-- **[VoxTerrae](https://voxterrae.app)** — Multilingual conflict intelligence
-- **[WarheatMap](https://warheatmap.app)** — Conflict zone mapping
+- **[Tuck](https://tuck.osintnet.uk)** — OSINT financial-intelligence terminal
+- **[WAR 3.0 Index](https://tuck.osintnet.uk/war3)** — live 0–100 conflict index (Goldstein-weighted)
+- **[EdgeIntel](https://intel.osintnet.uk)** — geopolitical signal aggregator
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Open Infrastructure
+Defensive tooling and sovereign edge infrastructure — open-source, serverless, and resilient by design.
+
+- **[Sentinel](https://github.com/indicaindependent/sentinel)** — Bluesky network-defense engine
+- **[HumanDefender](https://github.com/indicaindependent/humandefender)** — anti-abuse toolkit
+- **[cf-osint-toolkit](https://github.com/indicaindependent/cf-osint-toolkit)** — Cloudflare-edge OSINT primitives
+- **[AiecoSense](https://aiecosense.com)** — environmental-justice intelligence
 
 </td>
 </tr>
 </table>
+
+<sub>Also running a fleet of supporting automation — community, moderation, and tipping bots (VibesMom, EggAI, VibeCoder, BTCTips) — that keep the platforms alive behind the scenes.</sub>
 
 ---
 
@@ -111,8 +114,8 @@ Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=indicaindependent&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&ring_color=ef4444&title_color=ef4444&icon_color=ef4444" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indicaindependent&layout=compact&theme=radical&hide_border=true&title_color=ef4444&langs_count=8" />
+<img height="195" src="https://streak.osintnet.uk/stats?user=indicaindependent&hide_border=true" alt="GitHub Stats" />
+<img height="195" src="https://streak.osintnet.uk/top-langs?user=indicaindependent&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
@@ -175,9 +178,9 @@ If these tools served you, a tip keeps them alive — and funds the next one.
 
 ---
 
-## 🔐 About VPDLNY
+## 🔐 VPDLNY
 
-> **Vulnerable Persons Defense League of New York** is a collective of technologists, artists, and researchers who use knowledge and information — never violence — to defend marginalized and vulnerable people against powerful entities and institutions.
+> A quiet collective of technologists, artists, and researchers. We use knowledge and information — never violence — to defend the vulnerable against powerful institutions.
 
 > *Information asymmetry is how the powerful stay powerful. We close the gap.*
 
