@@ -118,7 +118,7 @@ Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=indicaindependent&theme=radical&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=ef4444)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak.osintnet.uk/?user=indicaindependent&hide_border=true)](https://github.com/indicaindependent)
 
 </div>
 
