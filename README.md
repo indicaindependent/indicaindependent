@@ -144,6 +144,23 @@ Full-stack apps deployed to Cloudflare's global edge. No servers. No cold starts
 
 ---
 
+## ⚡ Support the Mission
+
+<div align="center">
+
+**This is free, ad-free OSINT infrastructure. No VC. No gov funding. Just one researcher from Staten Island keeping the lights on.**
+
+If these tools served you, a tip keeps them alive — and funds the next one.
+
+[![Lightning](https://img.shields.io/badge/⚡_tips@warheatmap.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://support.warheatmap.app)
+[![Support Page](https://img.shields.io/badge/support.warheatmap.app-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://support.warheatmap.app)
+
+<sub>🧡 Sovereign Lightning node + on-chain. Your sats fund uptime, not ads.</sub>
+
+</div>
+
+---
+
 ## 🌐 Find Me
 
 <div align="center">
