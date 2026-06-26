@@ -155,8 +155,8 @@ Defensive tooling and sovereign edge infrastructure — open-source, serverless,
 
 If these tools served you, a tip keeps them alive — and funds the next one.
 
-[![Lightning](https://img.shields.io/badge/⚡_tips@warheatmap.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://support.warheatmap.app)
-[![Support Page](https://img.shields.io/badge/support.warheatmap.app-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://support.warheatmap.app)
+[![Lightning](https://img.shields.io/badge/⚡_tips@skygive.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://tips.osintnet.uk)
+[![Support Page](https://img.shields.io/badge/tips.osintnet.uk-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://tips.osintnet.uk)
 
 <sub>🧡 Sovereign Lightning node + on-chain. Your sats fund uptime, not ads.</sub>
 
