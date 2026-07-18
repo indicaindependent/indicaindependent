@@ -100,6 +100,7 @@ Defensive tooling and sovereign edge infrastructure — open-source, serverless,
 - **[Sentinel](https://github.com/indicaindependent/sentinel)** — Bluesky network-defense engine
 - **[HumanDefender](https://github.com/indicaindependent/humandefender)** — anti-abuse toolkit
 - **[cf-osint-toolkit](https://github.com/indicaindependent/cf-osint-toolkit)** — Cloudflare-edge OSINT primitives
+- **[VibeMaestro](https://github.com/indicaindependent/vibemaestro)** — AI-app orchestration gateway 🚧 *open source soon*
 - **[AiecoSense](https://aiecosense.com)** — environmental-justice intelligence
 
 </td>
