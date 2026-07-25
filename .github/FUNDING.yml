@@ -1,5 +1,4 @@
-# ⚡ Support independent OSINT — free, ad-free, no VC, no gov funding.
-# Sovereign Lightning · OptiPlex LND node · no strings attached.
+# ⚡ Support independent OSINT & open tooling — free, ad-free, no VC, no gov funding.
+# Sovereign Lightning · SkyGive · no strings attached.
 # Lightning address: tips@skygive.app
-custom:
-  - "https://tips.osintnet.uk"
+custom: ["https://donate.skygive.app/"]
