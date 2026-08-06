@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=760&height=65&lines=OSINT+Researcher+%F0%9F%94%8D;Edge+Developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon;Open+tools+for+the+vulnerable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=760&height=65&lines=Builder+of+AI-native+platforms+%F0%9F%9A%80;Advanced+autonomous+bots+%F0%9F%A4%96;Edge+developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon)](https://git.io/typing-svg)
 
-**Independent researcher building open intelligence tools on the serverless edge.**
-*No VC. No boss. Just code and conviction.* · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indicaindependent.bsky.social)
+**I build AI-native platforms and advanced autonomous bots on the serverless edge.**
+*No VC. No boss. Just code and conviction.* · [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indicaindependent.bsky.social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=indicaindependent&color=ef4444&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -11,91 +11,94 @@
 
 ---
 
-## 🚀 Flagship — VibeMaestro
+# 🚀 VibeMaestro — the flagship
 
-> **[VibeMaestro](https://vibemaestro.app)** — one conductor for a whole ecosystem of AI-native apps. Build, ship, and publish real web apps from a chat prompt, running on the Cloudflare edge. *Conduct the code. Ship it or it didn't exist.*
+> ### [**vibemaestro.app**](https://vibemaestro.app)
+> **One conductor for a whole ecosystem of AI-native apps.** Describe an app in chat and VibeMaestro builds, ships, and publishes a real, live web app on the Cloudflare edge — tiered model routing, per-user spend caps, and a free build lane so anyone can create for $0.
+>
+> *Conduct the code. Ship it or it didn't exist.*
 
-<sub>Reference workers from the platform:</sub>
-- **[vibemaestro-model-gateway](https://github.com/IndicaIndependent/vibemaestro-model-gateway)** — per-user, spend-capped LLM proxy with tiered routing + free-tier fallback
-- **[vibemaestro-auth-gate](https://github.com/IndicaIndependent/vibemaestro-auth-gate)** — Discord-OAuth relay for membership-gated multi-user apps
-- **[vibebuilders-mediakit](https://vibemaestro.app)** — VibeBuilders × VibeMaestro official media kit
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎛️ The Platform**
+- Chat-to-app studio with live preview & one-click publish
+- Tiered LLM routing (Claude · DeepSeek · Workers AI) with per-user spend caps
+- Free build lane on Cloudflare Workers AI — zero-cost app creation
+- Earned rank ladder: Member → Builder → Advisor → Consult
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 VibeBuilders ecosystem**
+- **VibeBuilders** — the community shipping on VibeMaestro
+- **Vibe Jams** — recurring build hackathons
+- [Media kit](https://vibemaestro.app) — brand, story, assets
+- Reference workers: [model-gateway](https://github.com/IndicaIndependent/vibemaestro-model-gateway) · [auth-gate](https://github.com/IndicaIndependent/vibemaestro-auth-gate)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎬 Apps
+# 🤖 Advanced Bots
 
-| App | What it does | Live |
+*Autonomous systems I'm particularly proud of — real-time, self-directed, running on the edge.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ VibeMaestro Build Bot
+The Discord bot that lets a whole server **build real web apps from a slash command.** Routes every build through a free, spend-safe model lane, streams progress live, then auto-publishes the finished app to its own subdomain and edits the result back into Discord — end to end, hands-off.
+
+`Discord` · `Cloudflare Workers` · `streaming builds` · `auto-publish`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ AXIOM
+An advanced autonomous **Discord moderation intelligence.** Reads a server in real time and catches trolling, harassment, bullying, political charging, and spam with nuanced classification — while protecting good-faith debate and friendly chatter. Escalates with one-click enforcement actions and a graduated strike system.
+
+`real-time gateway` · `AI classification` · `graduated enforcement`
+
+</td>
+</tr>
+</table>
+
+<sub>▸ Open-source community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[Count Binface](https://bsky.app/profile/countbinface.osintnet.uk)** (satirical persona) · **[VibesMom](https://bsky.app/profile/vibesmom.bsky.social)** (mental-health presence)</sub>
+
+---
+
+# 🎯 Select Work
+
+*A few live products I stand behind — free, open, and actually used.*
+
+| | Project | What it is |
 |---|---|---|
-| **Blueboxd** 📺 | Public-domain cinema + a film diary that lives in your own Bluesky repo (Letterboxd on AT Protocol) | [blueboxd.com](https://blueboxd.com) |
-| **WarHeatMap** 🌍 | Live global conflict-intelligence platform — interactive war heatmap + naval OSINT | [warheatmap.app](https://warheatmap.app) |
-| **SkyGive** ⚡ | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee | [skygive.app](https://skygive.app) |
-| **Tuck** 📈 | Free OSINT-grade market intelligence for the people Wall Street ignores | [market.osintnet.uk](https://market.osintnet.uk) |
-| **FaceHeatMap** 🗺️ | Tracks facial-recognition surveillance contracts across the US | [faceheatmap.app](https://faceheatmap.app) |
-| **VoxTerrae** 🌐 | Multilingual geospatial voice intelligence from conflict zones | [voxterrae.app](https://voxterrae.app) |
+| 📺 | [**Blueboxd**](https://blueboxd.com) | Public-domain cinema + a film diary that lives in your own Bluesky repo — Letterboxd on the AT Protocol |
+| 🌍 | [**WarHeatMap**](https://warheatmap.app) | Live global conflict-intelligence platform — interactive heatmap, naval OSINT, auto-posting |
+| ⚡ | [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
+| 🛰️ | [**Sentinel**](https://sentinel.osintnet.uk) | Federal surveillance-contract intelligence tool (Google Cloud Hackathon 2026) |
 
-<details>
-<summary>➕ More apps</summary>
-
-- **[AIEcoSense](https://aiecosense.com)** — AI environmental-justice intelligence (an EJScreen replacement)
-- **[BizHer](https://bizher.osintnet.uk)** — free NY LLC + WBE/MWBE wizard for women entrepreneurs
-- **PipPad** — calm, low-stimulation, kid-safe video player (single Worker)
-
-</details>
-
----
-
-## 🤖 Bots
-
-<details>
-<summary><b>Autonomous edge bots — click to expand</b></summary>
-
-<br>
-
-- **[VibesMom](https://bsky.app/profile/vibesmom.bsky.social)** 🤖 — warm mental-health Bluesky presence; reaches out selectively, knows when to listen
-- **[Count Binface](https://bsky.app/profile/countbinface.osintnet.uk)** 🗑️ — news-aware humanized satirical-persona bot on the free edge
-- **[HumanDefender](https://developers.reddit.com/apps/humandefender)** 🛡️ — Reddit mod tool: 5-signal behavioral bot & CIB detector (Ghost Score 0-100)
-- **[bsky-campaign-engine](https://github.com/IndicaIndependent/bsky-campaign-engine)** 📡 — automated Bluesky campaign scheduler with thread chaining
-
-<sub>All run entirely on the Cloudflare free edge — Workers · D1 · Cron · AT Protocol.</sub>
-
-</details>
-
----
-
-## 🛰️ OSINT / Infrastructure
-
-<details>
-<summary><b>Tools, templates & research infra — click to expand</b></summary>
-
-<br>
-
-- **[Sentinel](https://sentinel.osintnet.uk)** — federal surveillance-contract intelligence tool (Python · Google Cloud Hackathon 2026)
-- **[cf-osint-toolkit](https://github.com/IndicaIndependent/cf-osint-toolkit)** 🔧 — reusable Cloudflare Workers patterns for OSINT (D1 · KV · R2 · Cron · AT Protocol)
-- **[sovereign-mcp](https://github.com/IndicaIndependent/sovereign-mcp)** — hardened MCP server template, two-layer auth + default-deny guard
-- **[open-agents](https://open-agents.dev)** — open-source template for building cloud agents
-- **[awesome-phone-call-agents](https://github.com/IndicaIndependent/awesome-phone-call-agents)** — portable phone-call Agent Skills, adapters & recipes
-- **[VPDLNY Tools](https://osintnet.uk)** 📚 — the mission, architecture & index of all open-source tools
-
-</details>
-
----
-
-## 🛠️ Stack
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![D1](https://img.shields.io/badge/D1_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![R2](https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<sub>▸ Developer tooling: **[cf-osint-toolkit](https://github.com/IndicaIndependent/cf-osint-toolkit)** · **[sovereign-mcp](https://github.com/IndicaIndependent/sovereign-mcp)** · **[open-agents](https://open-agents.dev)**</sub>
 
 ---
 
 <div align="center">
 
+### 🛠️ Stack
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/LLM_Routing-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
 *Information is the weapon. Tools belong to the vulnerable.* ⚔️
-📫 [osintnet.uk](https://osintnet.uk) · [@indicaindependent](https://bsky.app/profile/indicaindependent.bsky.social)
+📫 [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [@indicaindependent](https://bsky.app/profile/indicaindependent.bsky.social)
 
 </div>
