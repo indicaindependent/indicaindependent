@@ -59,16 +59,16 @@ The Discord bot that lets a whole server **build real web apps from a slash comm
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ AXIOM
-An advanced autonomous **Discord moderation intelligence.** Reads a server in real time and catches trolling, harassment, bullying, political charging, and spam with nuanced classification — while protecting good-faith debate and friendly chatter. Escalates with one-click enforcement actions and a graduated strike system.
+### 🛡️ Axiom
+A **web-security scanner you run from Discord.** `/scan yoursite.com` and Axiom fetches the site (and its JS bundles and well-known paths), then posts a graded **A+ → F** report: leaked API keys, missing security headers, exposed `.env`/`.git`, permissive CORS, unprotected forms, backend fingerprint — read-only and non-intrusive, with an SSRF guard. Built for the vibe-coded era.
 
-`real-time gateway` · `AI classification` · `graduated enforcement`
+[`github.com/indicaindependent/axiom`](https://github.com/indicaindependent/axiom) · `Cloudflare Workers` · `Ed25519` · `defensive appsec`
 
 </td>
 </tr>
 </table>
 
-<sub>▸ Open-source community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[Count Binface](https://bsky.app/profile/countbinface.osintnet.uk)** (satirical persona) · **[VibesMom](https://bsky.app/profile/vibesmom.bsky.social)** (mental-health presence)</sub>
+<sub>▸ Open-source community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[Count Binface](https://bsky.app/profile/countbinface.osintnet.uk)** (satirical persona) · **[VibesMom](https://bsky.app/profile/vibesmom.bsky.social)** (a warm Bluesky presence who holds real conversations and finds verified help)</sub>
 
 ---
 
@@ -80,6 +80,7 @@ An advanced autonomous **Discord moderation intelligence.** Reads a server in re
 |---|---|---|
 | 📺 | [**Blueboxd**](https://blueboxd.com) | Public-domain cinema + a film diary that lives in your own Bluesky repo — Letterboxd on the AT Protocol |
 | 🌍 | [**WarHeatMap**](https://warheatmap.app) | Live global conflict-intelligence platform — interactive heatmap, naval OSINT, auto-posting |
+| 📈 | [**Tuck**](https://tuck.osintnet.uk) | Free financial intelligence — congress trades, sector heat map, geopolitical scanner, and a tool-wired Llama guide. No login, no ads, no advice |
 | ⚡ | [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
 | 🛰️ | [**Sentinel**](https://sentinel.osintnet.uk) | Federal surveillance-contract intelligence tool (Google Cloud Hackathon 2026) |
 
