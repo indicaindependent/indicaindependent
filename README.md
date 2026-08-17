@@ -82,9 +82,11 @@ A **web-security scanner you run from Discord.** `/scan yoursite.com` and Axiom 
 | 🌍 | [**WarHeatMap**](https://warheatmap.app) | Live global conflict-intelligence platform — interactive heatmap, naval OSINT, auto-posting |
 | 📈 | [**Tuck**](https://tuck.osintnet.uk) | Free financial intelligence — congress trades, sector heat map, geopolitical scanner, and a tool-wired Llama guide. No login, no ads, no advice |
 | ⚡ | [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
+| 🛰️ | [**SkyLens**](https://github.com/indicaindependent/skylens) | Open-source engagement-analytics observatory for Bluesky — timing heatmaps, golden-hour finder, thread shapes, one Cloudflare Worker |
 | 🛰️ | [**Sentinel**](https://sentinel.osintnet.uk) | Federal surveillance-contract intelligence tool (Google Cloud Hackathon 2026) |
 
 <sub>▸ Developer tooling: **[cf-osint-toolkit](https://github.com/IndicaIndependent/cf-osint-toolkit)** · **[sovereign-mcp](https://github.com/IndicaIndependent/sovereign-mcp)** · **[open-agents](https://open-agents.dev)**</sub>
+<sub>▸ Research & reference: **[bluesky-engagement-study](https://github.com/indicaindependent/bluesky-engagement-study)** (what drives Bluesky engagement) · **[dispatch-line](https://github.com/indicaindependent/dispatch-line)** (autonomous one-post-a-day architecture)</sub>
 
 ---
 
