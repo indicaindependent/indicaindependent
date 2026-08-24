@@ -68,7 +68,7 @@ An advanced autonomous **Discord moderation intelligence.** Reads a server in re
 </tr>
 </table>
 
-<sub>▸ Open-source community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[Count Binface](https://bsky.app/profile/countbinface.osintnet.uk)** (satirical persona) · **[VibesMom](https://bsky.app/profile/vibesmom.bsky.social)** (mental-health presence)</sub>
+<sub>▸ Open-source community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[VibesMom](https://bsky.app/profile/vibesmom.osintnet.uk)** (mental-health presence)</sub>
 
 ---
 
