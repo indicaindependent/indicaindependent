@@ -164,10 +164,12 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 <tr>
 <td width="50%" valign="top">
 
-### AXIOM
+### [AXIOM](https://github.com/indicaindependent/axiom)
 An advanced autonomous **Discord moderation intelligence.** Reads a server in real time and catches trolling, harassment, bullying, political charging and spam with confidence-scored classification — while protecting good-faith debate and friendly chatter. Graduated strikes, one-click enforcement.
 
 `real-time gateway` · `AI classification` · `graduated enforcement`
+
+Companion project: [axiom-scanner](https://github.com/indicaindependent/axiom-scanner) — the free read-only web-security scanner.
 
 </td>
 <td width="50%" valign="top">
