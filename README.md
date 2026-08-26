@@ -35,7 +35,15 @@ That sentence is from [tuck](https://github.com/IndicaIndependent/tuck), but it 
 <details>
 <summary><b>The same measurements as a table</b></summary>
 
-{{ESTATE_TABLE}}
+| Service | Status | Response time | Payload |
+|---|---|---|---|
+| [skylens.osintnet.uk](https://skylens.osintnet.uk) | HTTP 200 | 113 ms | 15,119 B |
+| [osintnet.uk](https://osintnet.uk) | HTTP 200 | 134 ms | 35,056 B |
+| [skygive.app](https://skygive.app) | HTTP 200 | 151 ms | 19,804 B |
+| [blueboxd.com](https://blueboxd.com) | HTTP 200 | 175 ms | 166,396 B |
+| [vibemaestro.app](https://vibemaestro.app) | HTTP 200 | 192 ms | 39,810 B |
+| [open-agents.dev](https://open-agents.dev) | HTTP 200 | 238 ms | 55,761 B |
+| [warheatmap.app](https://warheatmap.app) | HTTP 200 | 427 ms | 40,828 B |
 
 Response time and payload are single direct measurements from one location, not an uptime average. Payload size is listed because a live host can still return an empty stub — a 200 alone proves nothing.
 
