@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=760&height=65&lines=Builder+of+AI-native+platforms+%F0%9F%9A%80;Advanced+autonomous+bots+%F0%9F%A4%96;Edge+developer+%E2%9A%A1;VPDLNY+%E2%80%94+Info+is+the+Weapon)](https://git.io/typing-svg)
 
 **I build AI-native platforms and advanced autonomous bots on the serverless edge.**
-*No VC. No boss. Just code and conviction.* · [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indicaindependent.bsky.social)
+*No VC. No boss. Just code and conviction.* · [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=indicaindependent&color=ef4444&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -99,6 +99,6 @@ An advanced autonomous **Discord moderation intelligence.** Reads a server in re
 ![AI](https://img.shields.io/badge/LLM_Routing-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 *Information is the weapon. Tools belong to the vulnerable.* ⚔️
-📫 [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [@indicaindependent](https://bsky.app/profile/indicaindependent.bsky.social)
+📫 [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [@indicaindependent](https://bsky.app/profile/indica.osintnet.uk)
 
 </div>
