@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="ht hd">
+<title id="ht">Peter McVries — OSINT researcher and edge developer</title>
+<desc id="hd">Static banner, light theme. Peter McVries, OSINT researcher and edge developer for the Vulnerable Defense League of New York. Thesis: what Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside. Contrast computed from hex against the panel: primary text 14.84 to 1, accent 5.50 to 1, secondary label 5.74 to 1. No animation.</desc>
+<rect width="1200" height="300" fill="#FFFFFF"/>
+<rect x="28" y="28" width="1144" height="244" rx="10" fill="#F6F8FA" stroke="#D1D9E0" stroke-width="1"/>
+<rect x="28" y="28" width="6" height="244" rx="3" fill="#0B6F7D" stroke="#0B6F7D" stroke-width="1"/>
+<text x="66" y="108" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="42" font-weight="700" fill="#1F2328" letter-spacing="2.5">PETER McVRIES</text>
+<text x="66" y="143" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#59636E" letter-spacing="1.3">OSINT RESEARCHER &#183; EDGE DEVELOPER &#183; VULNERABLE DEFENSE LEAGUE OF NY</text>
+<line x1="66" y1="169" x2="1134" y2="169" stroke="#D1D9E0" stroke-width="1"/>
+<text x="66" y="218" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="27" font-weight="700" fill="#0B6F7D">What Wall Street hoards, we hand back.</text>
+<text x="66" y="249" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14.5" fill="#59636E">Free, self-hosted tools for people who cannot buy them &#8212; and the method published alongside.</text>
+</svg>
