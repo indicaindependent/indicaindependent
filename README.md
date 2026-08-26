@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header.svg" alt="Peter McVries — OSINT researcher and edge developer for the Vulnerable Defense League of New York. What Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside." width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-light.svg" alt="Peter McVries — OSINT researcher and edge developer for the Vulnerable Defense League of New York. What Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside." width="100%"></picture>
 
 **I take things that are normally gated, hoarded, or rented — and ship free, self-hosted versions. Then I publish the method.**
 
@@ -195,7 +195,7 @@ Shipping the tool is half of it. These are the patterns themselves, written down
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/stack.svg" alt="Stack: Cloudflare Workers, TypeScript, JavaScript, Python, D1, Workers AI, LLM routing." width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/stack-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/stack-light.svg" alt="Stack: Cloudflare Workers, TypeScript, JavaScript, Python, D1, Workers AI, LLM routing." width="100%"></picture>
 
 **Information is the weapon. Tools belong to the vulnerable.**
 
