@@ -1,12 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=EF4444&background=00000000&center=true&vCenter=true&width=760&height=65&lines=Tools+belong+to+the+vulnerable;What+is+hoarded%2C+handed+back;Free+%C2%B7+self-hosted+%C2%B7+method+published;OSINT+%C2%B7+Edge+%C2%B7+VPDLNY)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header.svg" alt="Peter McVries — OSINT researcher and edge developer for the Vulnerable Defense League of New York. What Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside." width="100%">
 
 **I take things that are normally gated, hoarded, or rented — and ship free, self-hosted versions. Then I publish the method.**
 
 *No VC. No boss. Just code and conviction.* · [vibemaestro.app](https://vibemaestro.app) · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk)
-
-![Profile Views](https://komarev.com/ghpvc/?username=indicaindependent&color=ef4444&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -197,14 +195,7 @@ Shipping the tool is half of it. These are the patterns themselves, written down
 
 <div align="center">
 
-### Stack
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Workers](https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/LLM_Routing-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/stack.svg" alt="Stack: Cloudflare Workers, TypeScript, JavaScript, Python, D1, Workers AI, LLM routing." width="100%">
 
 **Information is the weapon. Tools belong to the vulnerable.**
 
