@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-labelledby="kt kd">
+<title id="kt">Kelvin — quant trading performance and risk observability</title>
+<desc id="kd">Four capability pillars. Performance: indexed equity curve, daily P and L, expectancy. Risk: Sharpe, Sortino, maximum drawdown, R-multiple, regime conditioning. Attribution: per-strategy status and a machine-decision log. Discipline: benches negative-expectancy strategies and refuses trades in violent regimes. A machine in supervised training. Figures are indexed demo units, equity indexed to 100 and daily P and L in percent, not account balances. Not financial advice.</desc>
+<rect x="0" y="0" width="1100" height="470" fill="#0B1015"/>
+<rect x="0.5" y="0.5" width="1099" height="469" fill="none" stroke="#33424F" stroke-width="1"/>
+<g stroke="#2DD4E8" stroke-width="2" fill="none"><line x1="44" y1="86" x2="44" y2="46"/><line x1="38" y1="46" x2="50" y2="46"/><circle cx="44" cy="94" r="9"/></g>
+<text x="44" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#A7B6C2" text-anchor="middle">0 K</text>
+<text x="82" y="72" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="36" font-weight="700" fill="#F3F7F9" letter-spacing="2">KELVIN</text>
+<text x="84" y="99" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#2DD4E8">Absolute zero. Absolute discipline.</text>
+<text x="84" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">Quant trading performance &amp; risk observability  ·  kelvinquant.com</text>
+<line x1="40" y1="148" x2="1060" y2="148" stroke="#33424F" stroke-width="1"/>
+<rect x="40.5" y="168.5" width="242" height="195" rx="4" fill="#161E27" stroke="#33424F" stroke-width="1"/>
+<rect x="40.5" y="168.5" width="4" height="195" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="60" y="202" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#2DD4E8" letter-spacing="1">PERFORMANCE</text>
+<rect x="60.5" y="225.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">indexed equity curve</text>
+<rect x="60.5" y="251.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">daily P&amp;L</text>
+<rect x="60.5" y="277.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="286" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">expectancy</text>
+<rect x="299.5" y="168.5" width="242" height="195" rx="4" fill="#161E27" stroke="#33424F" stroke-width="1"/>
+<rect x="299.5" y="168.5" width="4" height="195" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="319" y="202" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#2DD4E8" letter-spacing="1">RISK</text>
+<rect x="319.5" y="225.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="335" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">Sharpe · Sortino</text>
+<rect x="319.5" y="251.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="335" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">maximum drawdown</text>
+<rect x="319.5" y="277.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="335" y="286" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">R-multiple</text>
+<rect x="319.5" y="303.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="335" y="312" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">regime conditioning</text>
+<rect x="558.5" y="168.5" width="242" height="195" rx="4" fill="#161E27" stroke="#33424F" stroke-width="1"/>
+<rect x="558.5" y="168.5" width="4" height="195" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="578" y="202" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#2DD4E8" letter-spacing="1">ATTRIBUTION</text>
+<rect x="578.5" y="225.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="594" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">per-strategy status</text>
+<rect x="578.5" y="251.5" width="6" height="6" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="594" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">machine-decision log</text>
+<rect x="817.5" y="168.5" width="242" height="195" rx="4" fill="#161E27" stroke="#33424F" stroke-width="1"/>
+<rect x="817.5" y="168.5" width="4" height="195" fill="#FB7185" stroke="#FB7185" stroke-width="1"/>
+<text x="837" y="202" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" font-weight="700" fill="#FB7185" letter-spacing="1">DISCIPLINE</text>
+<rect x="837.5" y="225.5" width="6" height="6" fill="#FB7185" stroke="#FB7185" stroke-width="1"/>
+<text x="853" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F3F7F9">benches negative-</text>
+<rect x="837.5" y="251.5" width="6" height="6" fill="#FB7185" stroke="#FB7185" stroke-width="1"/>
+<text x="853" y="260" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F3F7F9">expectancy strategies</text>
+<rect x="837.5" y="277.5" width="6" height="6" fill="#FB7185" stroke="#FB7185" stroke-width="1"/>
+<text x="853" y="286" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F3F7F9">refuses trades in</text>
+<rect x="837.5" y="303.5" width="6" height="6" fill="#FB7185" stroke="#FB7185" stroke-width="1"/>
+<text x="853" y="312" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F3F7F9">violent regimes</text>
+<rect x="40.5" y="386.5" width="1019" height="43" rx="4" fill="#1E2833" stroke="#33424F" stroke-width="1"/>
+<text x="60" y="412" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#F3F7F9">MACHINE IN SUPERVISED TRAINING</text>
+<text x="60" y="434" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#A7B6C2">Figures are indexed demo units — equity indexed to 100, daily P&amp;L in percent — not account balances. Not financial advice.</text>
+</svg>
