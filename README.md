@@ -188,6 +188,22 @@ The Discord bot that lets a whole server **build real web apps from a slash comm
 
 ---
 
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-light.svg" width="22" align="top"></picture> Kelvin
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/kelvin-discipline.svg" alt="Kelvin — quant trading performance and risk observability. Four pillars: performance (indexed equity curve, daily P&amp;L, expectancy); risk (Sharpe, Sortino, maximum drawdown, R-multiple, regime conditioning); attribution (per-strategy status, machine-decision log); and discipline, which benches negative-expectancy strategies and refuses trades in violent regimes. Machine in supervised training — figures are indexed demo units, equity indexed to 100, not account balances. Not financial advice." width="100%">
+
+**A trading machine under supervision, and the instrumentation that holds it to account.** Kelvin reports indexed performance and risk — equity curve, expectancy, Sharpe, Sortino, maximum drawdown, R-multiple, regime conditioning — with per-strategy attribution and a machine-decision log.
+
+The interesting behaviour is the refusal. Kelvin **benches negative-expectancy strategies** and **declines to trade in violent regimes** — a system whose most important capability is not acting. Same principle as [AXIOM](https://github.com/indicaindependent/axiom): publish the discipline, keep the calibration private.
+
+It is also built to be read by machines, not just people — the front end ships an [`llms.txt`](https://kelvinquant.com/llms.txt) describing itself, and the crawler policy admits AI agents deliberately.
+
+> **Machine in supervised training.** Figures are indexed demo units — equity indexed to 100, daily P&L in percent — **not account balances**. Not financial advice.
+
+`quant observability` · `risk analytics` · `regime conditioning` · [**kelvinquant.com**](https://kelvinquant.com)
+
+---
+
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-light.svg" width="22" align="top"></picture> Publish the method
 
 Shipping the tool is half of it. These are the patterns themselves, written down so someone else can rebuild them.
