@@ -103,10 +103,10 @@ A wrong number in a crisis is worse than no number.
 </td>
 <td width="50%" valign="top">
 
-### [Blueboxd](https://blueboxd.com)
-**Public-domain cinema, and a film diary that lives in your own Bluesky repo.** Letterboxd on the AT Protocol — your data stays yours.
+### [BizHer](https://bizher.osintnet.uk)
+**Free LLC formation for women entrepreneurs in New York.** A step-by-step wizard through the filing, plus the WBE/MWBE certification path most guides leave out.
 
-`AT Protocol` · `public domain` · `data ownership`
+`legal tech` · `WBE/MWBE` · `document generator`
 
 </td>
 </tr>
@@ -124,6 +124,7 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 | [**Dispatch Line**](https://github.com/IndicaIndependent/dispatch-line) | Autonomous prose-first architecture: one self-contained conversation a day, no engagement bait |
 | [**Bluesky Engagement Study**](https://github.com/IndicaIndependent/bluesky-engagement-study) | A receipts-first 30-day study of what actually drives engagement, with a reproducible method |
 | [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
+| [**Blueboxd**](https://blueboxd.com) | Public-domain cinema with a film diary that lives in your own Bluesky repo — a Letterboxd-style social layer, so your data stays yours |
 
 ---
 
