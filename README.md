@@ -110,6 +110,21 @@ Measured 2026-08-26 18:36 EDT. Response time and payload are single direct measu
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-light.svg" width="22" align="top"></picture> Mission work
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/mission-impact.svg" alt="Mission work: four projects with who each serves, live HTTP status and measured payload size, measured 2026-09-03" width="100%">
+
+</div>
+
+| Project | Serves | Status | Payload |
+| :--- | :--- | :---: | ---: |
+| [Tuck](https://tuck.osintnet.uk) | Anyone priced out of financial intelligence | 200 | 81,142 B |
+| [Crisis Lifeline Bridge](https://github.com/indicaindependent/crisis-lifeline-bridge) | Agents that may meet someone in crisis | repo only | &#8212; |
+| [WarHeatMap](https://warheatmap.app) | Anyone tracking conflict without a paywall | 200 | 44,662 B |
+| [BizHer](https://bizher.osintnet.uk) | Women forming an LLC in New York | 200 | 115,010 B |
+
+*Measured live 2026-09-03 18:22 UTC, not asserted.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -156,6 +171,20 @@ A wrong number in a crisis is worse than no number.
 ---
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-light.svg" width="22" align="top"></picture> AT Protocol work
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/atproto-stack.svg" alt="AT Protocol work: three services with what each does, live HTTP status and measured payload size, measured 2026-09-03" width="100%">
+
+</div>
+
+| Service | What it does | Status | Payload |
+| :--- | :--- | :---: | ---: |
+| [Skylens](https://skylens.osintnet.uk) | Engagement-analytics observatory for Bluesky | 200 | 15,478 B |
+| [SkyGive](https://skygive.app) | Non-custodial Bitcoin donation campaigns, zero fee | 200 | 20,163 B |
+| [Blueboxd](https://blueboxd.com) | Public-domain cinema; the diary lives in your repo | 200 | 166,755 B |
+
+*Measured live 2026-09-03 18:22 UTC, not asserted.*
 
 Newest line of work — building on Bluesky's open protocol rather than a platform that can revoke access.
 
