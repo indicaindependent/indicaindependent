@@ -16,10 +16,69 @@ I work for the **Vulnerable Defense League of NY**. Most of what is on this page
 
 > **What Wall Street hoards, we hand back.**
 
-That sentence is from [tuck](https://github.com/IndicaIndependent/tuck), but it is the whole account's thesis. Congressional trades, conflict data, surveillance contracts, crisis resources, film archives — all of it is information someone else charges rent on.
+That sentence is from [tuck](https://github.com/indicaindependent/tuck), but it is the whole account's thesis. Congressional trades, conflict data, surveillance contracts, crisis resources, film archives — all of it is information someone else charges rent on.
 
-**[The VPDLNY Open Tools Mission](https://github.com/IndicaIndependent/vpdlny-tools)** — the architecture and philosophy behind all of it.
+**[The VPDLNY Open Tools Mission](https://github.com/indicaindependent/vpdlny-tools)** — the architecture and philosophy behind all of it.
 
+---
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-light.svg" alt="" width="22" height="22" align="top"></picture> The ka&#8209;tet &#8212; the foundation everything else is built on
+
+> ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) &#183; orchestral agentic AI
+> **Everything else on this page is built by this.** Four AI agents and one human holding a
+> single system upright. The architecture is engineered on the structure of Stephen King's
+> *Dark Tower* novels — not as decoration, but because that cosmology is already a
+> **hub-and-spoke topology with guarded endpoints, an explicit integrity law, and a named
+> failure mode**, which is what a distributed agent system actually needs.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg" alt="The ka-tet: five seats with their disciplines, cylinder sizes and publish rights, and the key-separation arithmetic of the mesh connecting them" width="100%">
+
+</div>
+
+| Seat | Discipline | Cylinder | Publishes |
+| :--- | :--- | :--- | :---: |
+| The Master | Human owner. May intervene at any hub or spoke | — | — |
+| The Dinh | Quantitative analysis. Decides *for* the Master | — | no |
+| The Gunslinger | Delegation across disciplines | 24 chambers | no |
+| The Apprentice | Dealing with humans | 12 chambers | no |
+| The Archivist | Provenance and publication | — | **yes, only** |
+
+**One writer, and that is the load-bearing constraint.** Four seats research, draft, rank and
+sanitise. Exactly one may publish. That is a lock rather than a rank, and it was earned — two
+writers without one collided on a repository here, and a force-push dropped four files.
+
+**[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** — the forkable
+architecture. 24 chambers, exactly one mounted at a time, **241 dated action items** across 15
+numbered chapters. ·
+**[The Apprentice](https://github.com/indicaindependent/the-apprentice)** — 12 chambers for
+people in difficulty; **five of them hand the action to a human** rather than trusting the
+model to be careful. ·
+**[The Archivist](https://github.com/indicaindependent/the-archivist)** — the publisher, whose
+main page is a table of its own recorded mistakes.
+
+```mermaid
+flowchart LR
+  T["Target named<br/>at fork time"] --> R["Roster discovery"]
+  R --> C["24 chambers<br/>one loaded at a time"]
+  C --> B["Dated brief<br/>expires on schedule"]
+  B --> W["Working agent"]
+  W -. "findings ledger" .-> R
+```
+
+**The creed is the architecture, not a mission statement bolted on.** Five stanzas, each
+mapping to a component and the specific failure it forbids.
+
+| Stanza | Component | Forbids |
+| :--- | :--- | :--- |
+| I aim with the clock | Time authority | Reading a stale timestamp and calling it now |
+| I load with the brief | The chambers | Claiming a discipline you hold only the job title for |
+| I fire with the gate | The conformance gate | Counting a file that exists as a capability that works |
+| I widen when I am told | Scope lock | Granting yourself authority by reading an instruction generously |
+| I answer with what I checked | Line Zero | Every other failure above, upstream of all of them |
+
+*No text from the novels is reproduced; the creed is original and the avatars are original
+designs. [Attribution](https://github.com/indicaindependent/ka-tet/blob/main/ATTRIBUTION.md).*
 ---
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-light.svg" width="22" align="top"></picture> Everything here is actually running
@@ -49,24 +108,6 @@ Measured 2026-08-26 18:36 EDT. Response time and payload are single direct measu
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-light.svg" width="22" align="top"></picture> The Gun Slinger — agent architecture
-
-> ### [**the-gun-slinger**](https://github.com/IndicaIndependent/the-gun-slinger)
-> **A universal, forkable orchestra-agent architecture.** 24 master skillsets, one loaded at a time, each carrying a dated researched brief that expires. Fork it, name your target, and the build discovers its own roster.
-
-```mermaid
-flowchart LR
-  T["Target named<br/>at fork time"] --> R["Roster discovery"]
-  R --> C["24 chambers<br/>one loaded at a time"]
-  C --> B["Dated brief<br/>expires on schedule"]
-  B --> W["Working agent"]
-  W -. "findings ledger" .-> R
-```
-
-Fourteen numbered chapters, a creed that *is* the architecture rather than a mission statement bolted on, and an asset card for every diagram. Chapter 14 is the empirical one — a measurement of a running instance, including the failures.
-
----
-
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-light.svg" width="22" align="top"></picture> Mission work
 
 <table>
@@ -83,7 +124,7 @@ No login. No ads. No advice.
 </td>
 <td width="50%" valign="top">
 
-### [Crisis Lifeline Bridge](https://github.com/IndicaIndependent/crisis-lifeline-bridge)
+### [Crisis Lifeline Bridge](https://github.com/indicaindependent/crisis-lifeline-bridge)
 **Verify before you refer.** Detects a person in acute crisis, finds a *real* local agency through live research, then phone-verifies that it answers before handing over the referral.
 
 A wrong number in a crisis is worse than no number.
@@ -121,8 +162,8 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 | Project | What it is |
 |---|---|
 | [**Skylens**](https://skylens.osintnet.uk) | Engagement-analytics observatory for Bluesky — timing heatmaps, golden-hour detection. Open source, live now |
-| [**Dispatch Line**](https://github.com/IndicaIndependent/dispatch-line) | Autonomous prose-first architecture: one self-contained conversation a day, no engagement bait |
-| [**Bluesky Engagement Study**](https://github.com/IndicaIndependent/bluesky-engagement-study) | A receipts-first 30-day study of what actually drives engagement, with a reproducible method |
+| [**Dispatch Line**](https://github.com/indicaindependent/dispatch-line) | Autonomous prose-first architecture: one self-contained conversation a day, no engagement bait |
+| [**Bluesky Engagement Study**](https://github.com/indicaindependent/bluesky-engagement-study) | A receipts-first 30-day study of what actually drives engagement, with a reproducible method |
 | [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
 | [**Blueboxd**](https://blueboxd.com) | Public-domain cinema with a film diary that lives in your own Bluesky repo — a Letterboxd-style social layer, so your data stays yours |
 
@@ -151,7 +192,7 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 **VibeBuilders ecosystem**
 - **VibeBuilders** — the community shipping on VibeMaestro
 - **Vibe Jams** — recurring build hackathons
-- Reference workers: [model-gateway](https://github.com/IndicaIndependent/vibemaestro-model-gateway) · [auth-gate](https://github.com/IndicaIndependent/vibemaestro-auth-gate)
+- Reference workers: [model-gateway](https://github.com/indicaindependent/vibemaestro-model-gateway) · [auth-gate](https://github.com/indicaindependent/vibemaestro-auth-gate)
 
 </td>
 </tr>
@@ -208,7 +249,7 @@ It is also built to be read by machines, not just people — the front end ships
 
 Shipping the tool is half of it. These are the patterns themselves, written down so someone else can rebuild them.
 
-<sub>**[cf-osint-toolkit](https://github.com/IndicaIndependent/cf-osint-toolkit)** — edge OSINT patterns · **[sovereign-mcp](https://github.com/IndicaIndependent/sovereign-mcp)** — hardened MCP server template · **[iim-trophy](https://github.com/IndicaIndependent/iim-trophy)** — self-hosted profile trophies, built to stop depending on someone else's host · **[open-agents.dev](https://open-agents.dev)** — agent tooling</sub>
+<sub>**[cf-osint-toolkit](https://github.com/indicaindependent/cf-osint-toolkit)** — edge OSINT patterns · **[sovereign-mcp](https://github.com/indicaindependent/sovereign-mcp)** — hardened MCP server template · **[iim-trophy](https://github.com/indicaindependent/iim-trophy)** — self-hosted profile trophies, built to stop depending on someone else's host · **[open-agents.dev](https://open-agents.dev)** — agent tooling</sub>
 
 ---
 
