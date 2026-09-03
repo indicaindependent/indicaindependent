@@ -200,6 +200,25 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/flagship-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/flagship-light.svg" width="22" align="top"></picture> VibeMaestro
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/vibemaestro-ecosystem.svg" alt="VibeMaestro ecosystem: twenty-three deployed Cloudflare Workers grouped by function, with the three security worker names deliberately withheld" width="100%">
+
+</div>
+
+**One conductor, 23 deployed workers.** Enumerated live on 2026-09-03.
+
+| Function | Workers | Components |
+| :--- | ---: | :--- |
+| Build &amp; preview | 7 | app, apps, jam, preview, publish, tuner, waitroom |
+| Gateway &amp; site | 5 | gw, site, mcp, skills, research |
+| Data &amp; storage | 4 | data, db, backup, assets |
+| Operations | 3 | status, watchdog, billing |
+| Security &amp; secrets | 3 | *names withheld deliberately* |
+| Bot | 1 | bot |
+
+*Counting the security components is honest; naming them hands over a map.*
+
 > ### [**vibemaestro.app**](https://vibemaestro.app)
 > **One conductor for a whole ecosystem of AI-native apps.** Describe an app in chat and VibeMaestro builds, ships, and publishes a real, live web app on the Cloudflare edge — tiered model routing, per-user spend caps, and a free build lane so anyone can create for $0.
 >
@@ -230,6 +249,20 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 ---
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-light.svg" width="22" align="top"></picture> Autonomous systems
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/autonomous-systems.svg" alt="Autonomous systems: three deployed Cloudflare Workers with measured script size and last deployment date, read live 2026-09-03" width="100%">
+
+</div>
+
+| Worker | What it runs | Size | Last deployed |
+| :--- | :--- | ---: | :---: |
+| `axiom-bot` | AXIOM &#8212; Discord moderation intelligence | 29,853 B | 2026-08-23 |
+| `axiom-scanner` | Free read-only web-security scanner | 24,253 B | 2026-08-21 |
+| `vibemaestro-bot` | VibeMaestro Build Bot | 36,889 B | 2026-08-29 |
+
+*Read off the running deployments via the Cloudflare API on 2026-09-03, not copied from a doc.*
 
 <table>
 <tr>
