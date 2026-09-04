@@ -287,7 +287,7 @@ The Discord bot that lets a whole server **build real web apps from a slash comm
 </tr>
 </table>
 
-<sub>Community bots: **[HumanDefender](https://developers.reddit.com/apps/humandefender)** (Reddit CIB/bot detector) · **[VibesMom](https://bsky.app/profile/vibesmom.osintnet.uk)** (mental-health presence)</sub>
+<sub>Community bots: **[VibesMom](https://bsky.app/profile/vibesmom.osintnet.uk)** (mental-health presence)</sub>
 
 ---
 
