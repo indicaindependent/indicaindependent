@@ -41,7 +41,7 @@ That sentence is from [tuck](https://github.com/indicaindependent/tuck), but it 
 | The Master | Human owner. May intervene at any hub or spoke | — | — |
 | The Dinh | Quantitative analysis. Decides *for* the Master | — | no |
 | The Gunslinger | Delegation across disciplines | 24 chambers | no |
-| The Apprentice | Dealing with humans | 12 chambers | no |
+| The Second Gunslinger | Dealing with humans | 24 chambers | no |
 | The Archivist | Provenance and publication | — | **yes, only** |
 
 **One writer, and that is the load-bearing constraint.** Four seats research, draft, rank and
@@ -51,11 +51,13 @@ writers without one collided on a repository here, and a force-push dropped four
 **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** — the forkable
 architecture. 24 chambers, exactly one mounted at a time, **241 dated action items** across 15
 numbered chapters. ·
-**[The Apprentice](https://github.com/indicaindependent/the-apprentice)** — 12 chambers for
-people in difficulty; **five of them hand the action to a human** rather than trusting the
-model to be careful. ·
+**[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** — 24
+chambers for people in difficulty; **seven of them fail closed** and hand the action to a human
+rather than trusting the model to be careful. ·
 **[The Archivist](https://github.com/indicaindependent/the-archivist)** — the publisher, whose
-main page is a table of its own recorded mistakes.
+main page is a table of its own recorded mistakes. ·
+**[The Gun](https://github.com/indicaindependent/the-gun-skillset-router)** — where the whole
+thesis started: the original 24-chamber routing design, drawn before any of it was running.
 
 ```mermaid
 flowchart LR
