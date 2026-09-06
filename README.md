@@ -289,8 +289,6 @@ The Discord bot that lets a whole server **build real web apps from a slash comm
 </tr>
 </table>
 
-<sub>Community bots: **[VibesMom](https://bsky.app/profile/vibesmom.osintnet.uk)** (mental-health presence)</sub>
-
 ---
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-light.svg" width="22" align="top"></picture> Kelvin
