@@ -1,6 +1,8 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-light.svg" alt="Peter McVries — OSINT researcher and edge developer for the Vulnerable Defense League of New York. What Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/brand/header-light.svg" alt="Peter McVries — OSINT researcher, reporter and developer for Indica Independent Media. What Wall Street hoards, we hand back. Free, self-hosted tools for people who cannot buy them, with the method published alongside." width="100%"></picture>
+
+<img src="https://badge.osintnet.uk/badge.svg?dynamic" alt="Indica Independent Media — created with 100% Creative Clarity" width="400">
 
 **I take things that are normally gated, hoarded, or rented — and ship free, self-hosted versions. Then I publish the method.**
 
@@ -10,18 +12,20 @@
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/target-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/target-light.svg" width="22" align="top"></picture> The mission
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/target-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/target-light.svg" width="22" align="top"></picture> Indica Independent Media
 
-I work for the **Vulnerable Defense League of NY**. Most of what is on this page exists to serve that: intelligence and tooling handed to the people who normally cannot buy it.
+**Open intelligence, built in the open.** IIM is the house everything here ships under — OSINT research, reporting, and the software that makes both usable by someone who cannot buy a terminal.
 
 > **What Wall Street hoards, we hand back.**
 
 That sentence is from [tuck](https://github.com/indicaindependent/tuck), but it is the whole account's thesis. Congressional trades, conflict data, surveillance contracts, crisis resources, film archives — all of it is information someone else charges rent on.
 
-**[The VPDLNY Open Tools Mission](https://github.com/indicaindependent/vpdlny-tools)** — the architecture and philosophy behind all of it.
+Some of the work below is done for **VPDLNY**. That part keeps its own counsel; the [tooling](https://github.com/indicaindependent/vpdlny-tools) is public even where the work is not.
+
+`100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Discord](https://discord.osintnet.uk)
 
 ---
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-light.svg" alt="" width="22" height="22" align="top"></picture> The ka&#8209;tet &#8212; the foundation everything else is built on
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-light.svg" alt="" width="22" height="22" align="top"></picture> Orchestral agentic AI &#8212; the foundation everything else is built on
 
 > ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) &#183; orchestral agentic AI
 > **Everything else on this page is built by this.** Four AI agents and one human holding a
@@ -81,122 +85,49 @@ mapping to a component and the specific failure it forbids.
 
 *No text from the novels is reproduced; the creed is original and the avatars are original
 designs. [Attribution](https://github.com/indicaindependent/ka-tet/blob/main/ATTRIBUTION.md).*
----
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-light.svg" width="22" align="top"></picture> Everything here is actually running
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/live-status.svg" alt="Live service estate: HTTP status, response time and payload size for seven public services, each measured directly. All seven return HTTP 200 with a full page." width="100%">
-
-</div>
-
-<details>
-<summary><b>The same measurements as a table</b></summary>
-
-| Service | Status | Response time | Payload |
-|---|---|---:|---:|
-| [skylens.osintnet.uk](https://skylens.osintnet.uk) | HTTP 200 | 189 ms | 15,119 B |
-| [osintnet.uk](https://osintnet.uk) | HTTP 200 | 205 ms | 35,056 B |
-| [skygive.app](https://skygive.app) | HTTP 200 | 260 ms | 19,804 B |
-| [vibemaestro.app](https://vibemaestro.app) | HTTP 200 | 266 ms | 39,810 B |
-| [tuck.osintnet.uk](https://tuck.osintnet.uk) | HTTP 200 | 395 ms | 80,785 B |
-| [warheatmap.app](https://warheatmap.app) | HTTP 200 | 563 ms | 40,828 B |
-| [blueboxd.com](https://blueboxd.com) | HTTP 200 | 4480 ms | 166,396 B |
-
-Measured 2026-08-26 18:36 EDT. Response time and payload are single direct measurements from one location, not an uptime average. Payload size is listed because a live host can still return an empty stub — a 200 alone proves nothing.
-
-</details>
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-light.svg" width="22" align="top"></picture> Mission work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-light.svg" width="22" align="top"></picture> WarHeatMap
 
-<div align="center">
+> ### [**warheatmap.app**](https://warheatmap.app)
+> **Live global conflict intelligence, free.** An interactive heatmap built on **4,000+ verified
+> conflict events** rather than headlines, with naval OSINT and autonomous posting on top.
+>
+> The most-used thing on this page. No login, no paywall, no ads.
 
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/mission-impact.svg" alt="Mission work: four projects with who each serves, live HTTP status and measured payload size, measured 2026-09-03" width="100%">
-
-</div>
-
-| Project | Serves | Status | Payload |
-| :--- | :--- | :---: | ---: |
-| [Tuck](https://tuck.osintnet.uk) | Anyone priced out of financial intelligence | 200 | 81,142 B |
-| [Crisis Lifeline Bridge](https://github.com/indicaindependent/crisis-lifeline-bridge) | Agents that may meet someone in crisis | repo only | &#8212; |
-| [WarHeatMap](https://warheatmap.app) | Anyone tracking conflict without a paywall | 200 | 44,662 B |
-| [BizHer](https://bizher.osintnet.uk) | Women forming an LLC in New York | 200 | 115,010 B |
-
-*Measured live 2026-09-03 18:22 UTC, not asserted.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Tuck](https://tuck.osintnet.uk)
-**Free financial intelligence.** Congressional trades, sector heat, a geopolitical scanner, macro, and a tool-wired guide — in a single Cloudflare Worker.
-
-No login. No ads. No advice.
-
-`congressional disclosure` · `OSINT` · `single-file worker`
-
-</td>
-<td width="50%" valign="top">
-
-### [Crisis Lifeline Bridge](https://github.com/indicaindependent/crisis-lifeline-bridge)
-**Verify before you refer.** Detects a person in acute crisis, finds a *real* local agency through live research, then phone-verifies that it answers before handing over the referral.
-
-A wrong number in a crisis is worse than no number.
-
-`agent skill` · `crisis support` · `phone verification`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [WarHeatMap](https://warheatmap.app)
-**Live global conflict intelligence.** Interactive heatmap, naval OSINT, auto-posting — built on verified events rather than headlines.
-
-`conflict data` · `naval OSINT` · `live map`
-
-</td>
-<td width="50%" valign="top">
-
-### [BizHer](https://bizher.osintnet.uk)
-**Free LLC formation for women entrepreneurs in New York.** A step-by-step wizard through the filing, plus the WBE/MWBE certification path most guides leave out.
-
-`legal tech` · `WBE/MWBE` · `document generator`
-
-</td>
-</tr>
-</table>
+`conflict data` · `naval OSINT` · `live map` · `verified events, not headlines`
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/globe-light.svg" width="22" align="top"></picture> AT Protocol work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-light.svg" width="22" align="top"></picture> AXIOM
+
+> ### [**AXIOM**](https://github.com/indicaindependent/axiom)
+> **Autonomous Discord moderation intelligence.** Reads a server in real time and catches
+> trolling, harassment, bullying, political charging and spam with confidence-scored
+> classification — **while protecting good-faith debate and friendly chatter**, which is the
+> hard half. Graduated strikes, one-click enforcement.
+
+The interesting part is the restraint: a moderator that cannot tell an argument from an attack
+is worse than no moderator. AXIOM publishes its discipline and keeps its calibration private.
+
+Companion: [**axiom-scanner**](https://github.com/indicaindependent/axiom-scanner) — a free,
+read-only web-security scanner you run from Discord.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/atproto-stack.svg" alt="AT Protocol work: three services with what each does, live HTTP status and measured payload size, measured 2026-09-03" width="100%">
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/autonomous-systems.svg" alt="Autonomous systems: three deployed Cloudflare Workers with measured script size and last deployment date, read live 2026-09-03" width="100%">
 
 </div>
 
-| Service | What it does | Status | Payload |
-| :--- | :--- | :---: | ---: |
-| [Skylens](https://skylens.osintnet.uk) | Engagement-analytics observatory for Bluesky | 200 | 15,478 B |
-| [SkyGive](https://skygive.app) | Non-custodial Bitcoin donation campaigns, zero fee | 200 | 20,163 B |
-| [Blueboxd](https://blueboxd.com) | Public-domain cinema; the diary lives in your repo | 200 | 166,755 B |
+| Worker | What it runs | Size | Last deployed |
+| :--- | :--- | ---: | :---: |
+| `axiom-bot` | AXIOM — Discord moderation intelligence | 29,853 B | 2026-08-23 |
+| `axiom-scanner` | Free read-only web-security scanner | 24,253 B | 2026-08-21 |
 
-*Measured live 2026-09-03 18:22 UTC, not asserted.*
+*Read off the running deployments via the Cloudflare API on 2026-09-03, not copied from a doc.*
 
-Newest line of work — building on Bluesky's open protocol rather than a platform that can revoke access.
-
-| Project | What it is |
-|---|---|
-| [**Skylens**](https://skylens.osintnet.uk) | Engagement-analytics observatory for Bluesky — timing heatmaps, golden-hour detection. Open source, live now |
-| [**Dispatch Line**](https://github.com/indicaindependent/dispatch-line) | Autonomous prose-first architecture: one self-contained conversation a day, no engagement bait |
-| [**Bluesky Engagement Study**](https://github.com/indicaindependent/bluesky-engagement-study) | A receipts-first 30-day study of what actually drives engagement, with a reproducible method |
-| [**SkyGive**](https://skygive.app) | Non-custodial Bitcoin donation campaigns for Bluesky — 0% fee |
-| [**Blueboxd**](https://blueboxd.com) | Public-domain cinema with a film diary that lives in your own Bluesky repo — a Letterboxd-style social layer, so your data stays yours |
+`real-time gateway` · `AI classification` · `graduated enforcement`
 
 ---
 
@@ -207,6 +138,13 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 <img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/vibemaestro-ecosystem.svg" alt="VibeMaestro ecosystem: twenty-three deployed Cloudflare Workers grouped by function, with the three security worker names deliberately withheld" width="100%">
 
 </div>
+
+> ### [**vibemaestro.app**](https://vibemaestro.app)
+> **My own complete vibe-coding and orchestral AI studio.** Describe an app in chat and
+> VibeMaestro builds, ships, and publishes a real, live web app on the Cloudflare edge —
+> tiered model routing, per-user spend caps, and a free build lane so anyone can create for $0.
+>
+> *Conduct the code. Ship it or it didn't exist.*
 
 **One conductor, 23 deployed workers.** Enumerated live on 2026-09-03.
 
@@ -220,11 +158,6 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 | Bot | 1 | bot |
 
 *Counting the security components is honest; naming them hands over a map.*
-
-> ### [**vibemaestro.app**](https://vibemaestro.app)
-> **One conductor for a whole ecosystem of AI-native apps.** Describe an app in chat and VibeMaestro builds, ships, and publishes a real, live web app on the Cloudflare edge — tiered model routing, per-user spend caps, and a free build lane so anyone can create for $0.
->
-> *Conduct the code. Ship it or it didn't exist.*
 
 <table>
 <tr>
@@ -242,6 +175,7 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 **VibeBuilders ecosystem**
 - **VibeBuilders** — the community shipping on VibeMaestro
 - **Vibe Jams** — recurring build hackathons
+- **[Build Bot](https://github.com/indicaindependent/vibemaestro)** — build real web apps from a Discord slash command
 - Reference workers: [model-gateway](https://github.com/indicaindependent/vibemaestro-model-gateway) · [auth-gate](https://github.com/indicaindependent/vibemaestro-auth-gate)
 
 </td>
@@ -250,68 +184,100 @@ Newest line of work — building on Bluesky's open protocol rather than a platfo
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bots-light.svg" width="22" align="top"></picture> Autonomous systems
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/autonomous-systems.svg" alt="Autonomous systems: three deployed Cloudflare Workers with measured script size and last deployment date, read live 2026-09-03" width="100%">
-
-</div>
-
-| Worker | What it runs | Size | Last deployed |
-| :--- | :--- | ---: | :---: |
-| `axiom-bot` | AXIOM &#8212; Discord moderation intelligence | 29,853 B | 2026-08-23 |
-| `axiom-scanner` | Free read-only web-security scanner | 24,253 B | 2026-08-21 |
-| `vibemaestro-bot` | VibeMaestro Build Bot | 36,889 B | 2026-08-29 |
-
-*Read off the running deployments via the Cloudflare API on 2026-09-03, not copied from a doc.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [AXIOM](https://github.com/indicaindependent/axiom)
-An advanced autonomous **Discord moderation intelligence.** Reads a server in real time and catches trolling, harassment, bullying, political charging and spam with confidence-scored classification — while protecting good-faith debate and friendly chatter. Graduated strikes, one-click enforcement.
-
-`real-time gateway` · `AI classification` · `graduated enforcement`
-
-Companion project: [axiom-scanner](https://github.com/indicaindependent/axiom-scanner) — the free read-only web-security scanner.
-
-</td>
-<td width="50%" valign="top">
-
-### VibeMaestro Build Bot
-The Discord bot that lets a whole server **build real web apps from a slash command.** Routes every build through a free, spend-safe model lane, streams progress live, then auto-publishes the finished app to its own subdomain and edits the result back into Discord.
-
-`Discord` · `Cloudflare Workers` · `streaming builds`
-
-</td>
-</tr>
-</table>
-
----
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-light.svg" width="22" align="top"></picture> Kelvin
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/kelvin-light.svg" width="22" align="top"></picture> Financial work
 
 <img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/kelvin-discipline.svg" alt="Kelvin — quant trading performance and risk observability. Four pillars: performance (indexed equity curve, daily P&amp;L, expectancy); risk (Sharpe, Sortino, maximum drawdown, R-multiple, regime conditioning); attribution (per-strategy status, machine-decision log); and discipline, which benches negative-expectancy strategies and refuses trades in violent regimes. Machine in supervised training — figures are indexed demo units, equity indexed to 100, not account balances. Not financial advice." width="100%">
 
-**A trading machine under supervision, and the instrumentation that holds it to account.** Kelvin reports indexed performance and risk — equity curve, expectancy, Sharpe, Sortino, maximum drawdown, R-multiple, regime conditioning — with per-strategy attribution and a machine-decision log.
+> ### [**Kelvin**](https://github.com/indicaindependent/kelvin) &#183; [kelvinquant.com](https://kelvinquant.com)
+> **A trading machine under supervision, and the instrumentation that holds it to account.**
+> Indexed equity curve, expectancy, Sharpe, Sortino, maximum drawdown, R-multiple and regime
+> conditioning, with per-strategy attribution and a machine-decision log.
 
-The interesting behaviour is the refusal. Kelvin **benches negative-expectancy strategies** and **declines to trade in violent regimes** — a system whose most important capability is not acting. Same principle as [AXIOM](https://github.com/indicaindependent/axiom): publish the discipline, keep the calibration private.
+The interesting behaviour is the refusal. Kelvin **benches negative-expectancy strategies** and
+**declines to trade in violent regimes** — a system whose most important capability is not
+acting. Same principle as [AXIOM](https://github.com/indicaindependent/axiom): publish the
+discipline, keep the calibration private.
 
-It is also built to be read by machines, not just people — the front end ships an [`llms.txt`](https://kelvinquant.com/llms.txt) describing itself, and the crawler policy admits AI agents deliberately.
+The [**hub repo**](https://github.com/indicaindependent/kelvin) writes that boundary down — what
+is published, what is withheld, and why the equity curve is *absent* rather than estimated where
+no indexed export exists. It is also built to be read by machines: the front end ships an
+[`llms.txt`](https://kelvinquant.com/llms.txt) describing itself, and the crawler policy admits
+AI agents deliberately.
 
-> **Machine in supervised training.** Figures are indexed demo units — equity indexed to 100, daily P&L in percent — **not account balances**. Not financial advice.
+> **Machine in supervised training.** Figures are indexed demo units — equity indexed to 100,
+> daily P&L in percent — **not account balances**. Not financial advice.
 
-`quant observability` · `risk analytics` · `regime conditioning` · [**kelvinquant.com**](https://kelvinquant.com)
+Free financial intelligence for everyone else: [**Tuck**](https://tuck.osintnet.uk) — congressional
+trades, sector heat, a geopolitical scanner and macro, in a single Cloudflare Worker. No login,
+no ads, no advice.
+
+`quant observability` · `risk analytics` · `regime conditioning`
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-light.svg" width="22" align="top"></picture> Publish the method
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/bolt-light.svg" width="22" align="top"></picture> Everything here is actually running
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/live-status.svg" alt="Live service estate: nine public services with HTTP status, response time and payload size, each measured directly on 2026-09-08. All nine return HTTP 200 with a full page." width="100%">
+
+</div>
+
+<details>
+<summary><b>The same measurements as a table</b></summary>
+
+| Service | Status | Response time | Payload |
+|---|---|---:|---:|
+| [bizher.osintnet.uk](https://bizher.osintnet.uk) | HTTP 200 | 60 ms | 125,786 B |
+| [skylens.osintnet.uk](https://skylens.osintnet.uk) | HTTP 200 | 69 ms | 15,119 B |
+| [vibemaestro.app](https://vibemaestro.app) | HTTP 200 | 74 ms | 39,810 B |
+| [skygive.app](https://skygive.app) | HTTP 200 | 81 ms | 19,804 B |
+| [blueboxd.com](https://blueboxd.com) | HTTP 200 | 102 ms | 166,396 B |
+| [tuck.osintnet.uk](https://tuck.osintnet.uk) | HTTP 200 | 225 ms | 80,783 B |
+| [kelvinquant.com](https://kelvinquant.com) | HTTP 200 | 260 ms | 8,243 B |
+| [osintnet.uk](https://osintnet.uk) | HTTP 200 | 353 ms | 45,118 B |
+| [warheatmap.app](https://warheatmap.app) | HTTP 200 | 464 ms | 44,662 B |
+
+Measured 2026-09-08. Response time and payload are single direct measurements from one location, not an uptime average. Payload size is listed because a live host can still return an empty stub — a 200 alone proves nothing.
+
+</details>
+
+---
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/shield-light.svg" width="22" align="top"></picture> Tools that get used
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/mission-impact.svg" alt="Mission work: four projects with who each serves, live HTTP status and measured payload size, measured 2026-09-03" width="100%">
+
+</div>
+
+| Project | Serves | What it is |
+| :--- | :--- | :--- |
+| [**Tuck**](https://tuck.osintnet.uk) | anyone priced out of financial intelligence | congressional trades, sector heat, geopolitical scanner, macro |
+| [**BizHer**](https://bizher.osintnet.uk) | women forming an LLC in New York | step-by-step filing wizard plus the WBE/MWBE path most guides skip |
+| [**Crisis Lifeline Bridge**](https://github.com/indicaindependent/crisis-lifeline-bridge) | agents that may meet someone in crisis | finds a *real* local agency, then phone-verifies it answers before referring |
+| [**Skylens**](https://skylens.osintnet.uk) | anyone reading Bluesky seriously | engagement-analytics observatory — timing heatmaps, golden-hour detection |
+| [**SkyGive**](https://skygive.app) | anyone raising money without a middleman | non-custodial Bitcoin donation campaigns, **0% fee** |
+
+**A wrong number in a crisis is worse than no number.** That is why the Crisis Lifeline Bridge
+phone-verifies before it hands anything over, and why seven of the Second Gunslinger's chambers
+fail closed instead of improvising.
+
+---
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/stack-light.svg" width="22" align="top"></picture> Also built, and the method behind it
 
 Shipping the tool is half of it. These are the patterns themselves, written down so someone else can rebuild them.
 
-<sub>**[cf-osint-toolkit](https://github.com/indicaindependent/cf-osint-toolkit)** — edge OSINT patterns · **[sovereign-mcp](https://github.com/indicaindependent/sovereign-mcp)** — hardened MCP server template · **[iim-trophy](https://github.com/indicaindependent/iim-trophy)** — self-hosted profile trophies, built to stop depending on someone else's host · **[open-agents.dev](https://open-agents.dev)** — agent tooling</sub>
+| | |
+| :--- | :--- |
+| [**Blueboxd**](https://blueboxd.com) | Public-domain cinema with a film diary that lives in your own Bluesky repo — a Letterboxd-style social layer, so your data stays yours |
+| [**Dispatch Line**](https://github.com/indicaindependent/dispatch-line) | Autonomous prose-first architecture: one self-contained conversation a day, no engagement bait |
+| [**Bluesky Engagement Study**](https://github.com/indicaindependent/bluesky-engagement-study) | A receipts-first 30-day study of what actually drives engagement, with a reproducible method |
+| [**cf-osint-toolkit**](https://github.com/indicaindependent/cf-osint-toolkit) | Cloudflare Workers patterns for building OSINT tools at the edge |
+| [**sovereign-mcp**](https://github.com/indicaindependent/sovereign-mcp) | Hardened MCP server template — defensive defaults, not a demo |
+| [**PodCheck**](https://github.com/indicaindependent/podcheck) | Independent pre-screen for vape packaging: reads the state track-and-trace code and asks the registry directly |
 
 ---
 

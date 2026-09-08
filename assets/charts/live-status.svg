@@ -1,16 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 408" width="980" height="408" role="img" aria-labelledby="ti de">
-<title id="ti">Live service status for Indica Independent Media</title>
-<desc id="de">HTTP status, response time and payload size for 7 public services, measured directly on 2026-08-26 18:32 EDT. 7 of 7 are serving a real page.</desc>
-<rect width="980" height="408" fill="#0B1015"/><rect x="22" y="22" width="936" height="364" rx="10" fill="none" stroke="#33424F" stroke-width="1"/>
-<text x="46" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#F3F7F9" letter-spacing="1">LIVE SERVICE STATUS</text>
-<text x="46" y="79" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2">Measured 2026-08-26 18:32 EDT &#183; checked directly against each host, not asserted</text>
-<text x="46" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#2DD4E8" letter-spacing="1.3">7 OF 7 SERVING A REAL PAGE</text>
-<line x1="36" y1="110" x2="942" y2="110" stroke="#33424F" stroke-width="1"/>
-<text x="330" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#A7B6C2" letter-spacing="1">RESPONSE TIME</text>
-<text x="784" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#A7B6C2" letter-spacing="1" text-anchor="end">LATENCY</text>
-<text x="942" y="122" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#A7B6C2" letter-spacing="1" text-anchor="end">PAYLOAD</text>
-<rect x="36" y="106" width="906" height="28" rx="5" fill="#161E27" stroke="#33424F" stroke-width="1"/><rect x="46" y="113" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="121" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">tuck.osintnet.uk</text><text x="250" y="121" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="112" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="112" width="33" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="121" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">395 ms</text><text x="942" y="121" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">80,785 B</text><rect x="36" y="138" width="906" height="28" rx="5" fill="#1E2833" stroke="#33424F" stroke-width="1"/><rect x="46" y="145" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="153" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">warheatmap.app</text><text x="250" y="153" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="144" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="144" width="48" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="153" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">563 ms</text><text x="942" y="153" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">40,828 B</text><rect x="36" y="170" width="906" height="28" rx="5" fill="#161E27" stroke="#33424F" stroke-width="1"/><rect x="46" y="177" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">blueboxd.com</text><text x="250" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="176" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="176" width="384" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">4480 ms</text><text x="942" y="185" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">166,396 B</text><rect x="36" y="202" width="906" height="28" rx="5" fill="#1E2833" stroke="#33424F" stroke-width="1"/><rect x="46" y="209" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">skylens.osintnet.uk</text><text x="250" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="208" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="208" width="16" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">189 ms</text><text x="942" y="217" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">15,119 B</text><rect x="36" y="234" width="906" height="28" rx="5" fill="#161E27" stroke="#33424F" stroke-width="1"/><rect x="46" y="241" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="249" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">skygive.app</text><text x="250" y="249" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="240" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="240" width="22" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="249" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">260 ms</text><text x="942" y="249" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">19,804 B</text><rect x="36" y="266" width="906" height="28" rx="5" fill="#1E2833" stroke="#33424F" stroke-width="1"/><rect x="46" y="273" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="281" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">vibemaestro.app</text><text x="250" y="281" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="272" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="272" width="22" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="281" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">266 ms</text><text x="942" y="281" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">39,810 B</text><rect x="36" y="298" width="906" height="28" rx="5" fill="#161E27" stroke="#33424F" stroke-width="1"/><rect x="46" y="305" width="9" height="9" rx="1.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1.2"/><text x="66" y="313" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#F3F7F9">osintnet.uk</text><text x="250" y="313" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#2DD4E8">LIVE</text><rect x="330" y="304" width="384" height="10" rx="2" fill="none" stroke="#33424F" stroke-width="1"/><rect x="330" y="304" width="17" height="10" rx="2" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/><text x="784" y="313" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">205 ms</text><text x="942" y="313" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#A7B6C2" text-anchor="end">35,056 B</text>
-<line x1="36" y1="352" x2="942" y2="352" stroke="#33424F" stroke-width="1"/>
-<text x="46" y="374" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#A7B6C2">A 200 alone proves nothing, so payload size is shown too &#8212; a live host can still return an empty stub.</text>
-<text x="46" y="392" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#A7B6C2">Bars scaled to 4480 ms. Full values are printed, not encoded in bar length alone.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 534" width="1200" height="534" role="img" aria-labelledby="lst lsd" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title id="lst">Live service estate: nine public services, each measured directly</title>
+<desc id="lsd">Nine public services with HTTP status, response time and payload size, each fetched directly on 2026-09-08. All nine return HTTP 200 with a full page. Response times range from 60 to 464 milliseconds. Payload sizes range from 8,243 to 166,396 bytes. Bar length encodes response time relative to the slowest. Colour marks the three tiers: featured work, everyday tools, and also-built. Payload is listed because a live host can still return an empty stub, so a 200 alone proves nothing. These are single measurements from one location, not uptime averages.</desc>
+<rect width="1200" height="534" fill="#0B1015"/>
+<text x="56" y="50" fill="#F3F7F9" font-size="25" font-weight="600">Everything here is actually running</text>
+<text x="56" y="80" fill="#A7B6C2" font-size="15">Nine services, each fetched directly on 2026-09-08. All nine answer 200 with a full page.</text>
+<text x="56" y="118" fill="#A7B6C2" font-size="12" font-weight="600" letter-spacing="1">SERVICE</text>
+<text x="470" y="118" fill="#A7B6C2" font-size="12" font-weight="600" letter-spacing="1">STATUS</text>
+<text x="566" y="118" fill="#A7B6C2" font-size="12" font-weight="600" letter-spacing="1" text-anchor="end">RESPONSE</text>
+<text x="1144" y="118" fill="#A7B6C2" font-size="12" font-weight="600" letter-spacing="1" text-anchor="end">PAYLOAD</text>
+<rect x="56" y="132" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="132" width="5" height="28" rx="2.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="151" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">warheatmap.app</text>
+<text x="470" y="151" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="151" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">464 ms</text>
+<rect x="582" y="132" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="132" width="400" height="28" rx="5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="1144" y="151" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">44,662 B</text>
+<rect x="56" y="166" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="166" width="5" height="28" rx="2.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="185" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">vibemaestro.app</text>
+<text x="470" y="185" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="185" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">74 ms</text>
+<rect x="582" y="166" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="166" width="63" height="28" rx="5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="1144" y="185" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">39,810 B</text>
+<rect x="56" y="200" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="200" width="5" height="28" rx="2.5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="219" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">kelvinquant.com</text>
+<text x="470" y="219" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="219" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">260 ms</text>
+<rect x="582" y="200" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="200" width="224" height="28" rx="5" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="1144" y="219" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">8,243 B</text>
+<rect x="56" y="234" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="234" width="5" height="28" rx="2.5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="76" y="253" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">tuck.osintnet.uk</text>
+<text x="470" y="253" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="253" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">225 ms</text>
+<rect x="582" y="234" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="234" width="193" height="28" rx="5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="1144" y="253" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">80,783 B</text>
+<rect x="56" y="268" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="268" width="5" height="28" rx="2.5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="76" y="287" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">bizher.osintnet.uk</text>
+<text x="470" y="287" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="287" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">60 ms</text>
+<rect x="582" y="268" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="268" width="51" height="28" rx="5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="1144" y="287" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">125,786 B</text>
+<rect x="56" y="302" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="302" width="5" height="28" rx="2.5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="76" y="321" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">skylens.osintnet.uk</text>
+<text x="470" y="321" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="321" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">69 ms</text>
+<rect x="582" y="302" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="302" width="59" height="28" rx="5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="1144" y="321" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">15,119 B</text>
+<rect x="56" y="336" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="336" width="5" height="28" rx="2.5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="76" y="355" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">skygive.app</text>
+<text x="470" y="355" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="355" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">81 ms</text>
+<rect x="582" y="336" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="336" width="69" height="28" rx="5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="1144" y="355" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">19,804 B</text>
+<rect x="56" y="370" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="370" width="5" height="28" rx="2.5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="76" y="389" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">osintnet.uk</text>
+<text x="470" y="389" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="389" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">353 ms</text>
+<rect x="582" y="370" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="370" width="304" height="28" rx="5" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="1144" y="389" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">45,118 B</text>
+<rect x="56" y="404" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="404" width="5" height="28" rx="2.5" fill="#A7B6C2" stroke="#A7B6C2" stroke-width="1"/>
+<text x="76" y="423" fill="#F3F7F9" font-size="14" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">blueboxd.com</text>
+<text x="470" y="423" fill="#4ADE80" font-size="13.5" font-weight="600" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="566" y="423" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">102 ms</text>
+<rect x="582" y="404" width="400" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="582" y="404" width="87" height="28" rx="5" fill="#A7B6C2" stroke="#A7B6C2" stroke-width="1"/>
+<text x="1144" y="423" fill="#F3F7F9" font-size="13.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">166,396 B</text>
+<rect x="56" y="446" width="13" height="13" rx="3" fill="#2DD4E8" stroke="#2DD4E8" stroke-width="1"/>
+<text x="76" y="457" fill="#A7B6C2" font-size="13">featured work</text>
+<rect x="183" y="446" width="13" height="13" rx="3" fill="#A78BFA" stroke="#A78BFA" stroke-width="1"/>
+<text x="203" y="457" fill="#A7B6C2" font-size="13">everyday tools</text>
+<rect x="317" y="446" width="13" height="13" rx="3" fill="#A7B6C2" stroke="#A7B6C2" stroke-width="1"/>
+<text x="337" y="457" fill="#A7B6C2" font-size="13">also built</text>
+<text x="56" y="488" fill="#A7B6C2" font-size="13">Bar length is response time relative to the slowest. Single measurements from one location, not uptime averages.</text>
+<text x="56" y="510" fill="#A7B6C2" font-size="13">Payload is listed because a live host can still return an empty stub, so a 200 alone proves nothing.</text>
 </svg>
