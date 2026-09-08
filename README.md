@@ -133,18 +133,56 @@ read-only web-security scanner you run from Discord.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/flagship-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/flagship-light.svg" width="22" align="top"></picture> VibeMaestro
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/vibemaestro-ecosystem.svg" alt="VibeMaestro ecosystem: twenty-three deployed Cloudflare Workers grouped by function, with the three security worker names deliberately withheld" width="100%">
-
-</div>
-
-> ### [**vibemaestro.app**](https://vibemaestro.app)
+> ### [**vibemaestro.app**](https://vibemaestro.app) &#183; [status](https://status.vibemaestro.app)
 > **My own complete vibe-coding and orchestral AI studio.** Describe an app in chat and
 > VibeMaestro builds, ships, and publishes a real, live web app on the Cloudflare edge —
 > tiered model routing, per-user spend caps, and a free build lane so anyone can create for $0.
 >
 > *Conduct the code. Ship it or it didn't exist.*
+
+**It publishes its own uptime.** Eight public endpoints, monitored continuously, readable by
+anyone at **[status.vibemaestro.app](https://status.vibemaestro.app)** — no login, and a JSON
+API at `/api/status` for anyone who wants to poll it themselves.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/vibemaestro-status.svg" alt="VibeMaestro mini status board: eight monitored services, all eight operational, read from the platform's own status API on 2026-09-08. Median response time per service from seven samples, with the observed range beside each bar. Preview answers 400 and Publish answers 401 by design, both counted operational." width="100%">
+
+</div>
+
+<details>
+<summary><b>The same readings as a table</b></summary>
+
+| Service | Host | Code | Median | Observed range |
+|---|---|---:|---:|---:|
+| Preview | `preview.vibemaestro.app` | 400 | 19 ms | 7–37 ms |
+| AI Gateway | `gw.vibemaestro.app` | 200 | 20 ms | 8–46 ms |
+| Website | `vibemaestro.app` | 200 | 22 ms | 8–37 ms |
+| Tier Gate | `gate.vibemaestro.app` | 200 | 22 ms | 8–56 ms |
+| Data / SDK Backend | `data.vibemaestro.app` | 200 | 22 ms | 9–41 ms |
+| App / Studio API | `app.vibemaestro.app` | 200 | 28 ms | 9–62 ms |
+| Discord Bot | `bot.vibemaestro.app` | 200 | 33 ms | 15–131 ms |
+| Publish | `publish.vibemaestro.app` | 401 | 35 ms | 15–58 ms |
+
+**8 of 8 operational.** Median of 7 samples of the platform's own `/api/status`, taken over ~36
+seconds on 2026-09-08. Status codes were identical across all seven samples.
+
+**Why 400 and 401 count as healthy.** Preview requires parameters and Publish requires auth, so
+those codes are the services correctly refusing an empty request — proof they are answering. A
+naive fetch of each root URL disagrees with three of these readings, because the status worker
+probes the path that actually proves a service healthy rather than `/`.
+
+Medians rather than a single reading, because the first snapshot showed 8–24 ms and a read
+minutes later showed 52–109 ms on the same services. The range travels with each row so the
+spread is visible instead of one lucky moment.
+
+</details>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/vibemaestro-ecosystem.svg" alt="VibeMaestro ecosystem: twenty-three deployed Cloudflare Workers grouped by function, with the three security worker names deliberately withheld" width="100%">
+
+</div>
 
 **One conductor, 23 deployed workers.** Enumerated live on 2026-09-03.
 
@@ -154,10 +192,15 @@ read-only web-security scanner you run from Discord.
 | Gateway &amp; site | 5 | gw, site, mcp, skills, research |
 | Data &amp; storage | 4 | data, db, backup, assets |
 | Operations | 3 | status, watchdog, billing |
-| Security &amp; secrets | 3 | *names withheld deliberately* |
+| Security &amp; secrets | 3 | *names withheld* |
 | Bot | 1 | bot |
 
-*Counting the security components is honest; naming them hands over a map.*
+The `status` worker in that table is the one serving the status page above — the platform
+monitors itself and publishes the result.
+
+**The three security and secrets workers are counted but not named.** Everything else is listed
+by name; those three handle auth and secret material, and a public list of their hostnames would
+mainly be useful to someone probing the platform. The count is there so the picture is complete.
 
 <table>
 <tr>
@@ -168,6 +211,7 @@ read-only web-security scanner you run from Discord.
 - Tiered LLM routing (Claude · DeepSeek · Workers AI) with per-user spend caps
 - Free build lane on Cloudflare Workers AI — zero-cost app creation
 - Earned rank ladder: Member → Builder → Advisor → Consult
+- Tier Gate and Studio API are separate services, so entitlement is enforced away from the app
 
 </td>
 <td width="50%" valign="top">
@@ -177,6 +221,7 @@ read-only web-security scanner you run from Discord.
 - **Vibe Jams** — recurring build hackathons
 - **[Build Bot](https://github.com/indicaindependent/vibemaestro)** — build real web apps from a Discord slash command
 - Reference workers: [model-gateway](https://github.com/indicaindependent/vibemaestro-model-gateway) · [auth-gate](https://github.com/indicaindependent/vibemaestro-auth-gate)
+- Public status page with an open JSON endpoint — [status.vibemaestro.app](https://status.vibemaestro.app)
 
 </td>
 </tr>

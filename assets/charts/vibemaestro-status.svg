@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 526" width="1200" height="526" role="img" aria-labelledby="vst vsd" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title id="vst">VibeMaestro live status: eight monitored services, all operational</title>
+<desc id="vsd">Mini status board for VibeMaestro, read from its own public status API at status.vibemaestro.app on 2026-09-08. Eight of eight services operational. Website, App and Studio API, AI Gateway, Tier Gate, Data and SDK Backend, Preview, Publish, and Discord Bot. Response times range from 19 to 35 milliseconds. Preview answers 400 because it requires parameters and Publish answers 401 because it requires auth; both codes prove the service is responding, so the status worker correctly counts them operational. Bar length encodes response time relative to the slowest. A snapshot, not a live embed: the live page is linked in the README.</desc>
+<rect width="1200" height="526" fill="#0B1015"/>
+<text x="56" y="50" fill="#F3F7F9" font-size="25" font-weight="600">VibeMaestro is up, and it says so publicly</text>
+<text x="56" y="80" fill="#A7B6C2" font-size="15">Read from its own status API at status.vibemaestro.app on 2026-09-08 - median of 7 samples, not a live embed.</text>
+<rect x="56" y="98" width="270" height="30" rx="6" fill="#161E27" stroke="#4ADE80" stroke-width="1"/>
+<rect x="56" y="98" width="5" height="30" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="118" fill="#4ADE80" font-size="14" font-weight="600">8 of 8 operational - all systems up</text>
+<rect x="56" y="150" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="150" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="169" fill="#F3F7F9" font-size="14" font-weight="600">Website</text>
+<text x="286" y="169" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">vibemaestro.app</text>
+<text x="556" y="169" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="169" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">22 ms</text>
+<rect x="640" y="150" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="150" width="223" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="875" y="169" fill="#A7B6C2" font-size="12.5">8-37 ms observed</text>
+<rect x="56" y="184" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="184" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="203" fill="#F3F7F9" font-size="14" font-weight="600">App / Studio API</text>
+<text x="286" y="203" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">app.vibemaestro.app</text>
+<text x="556" y="203" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="203" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">28 ms</text>
+<rect x="640" y="184" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="184" width="284" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="936" y="203" fill="#A7B6C2" font-size="12.5">9-62 ms observed</text>
+<rect x="56" y="218" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="218" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="237" fill="#F3F7F9" font-size="14" font-weight="600">AI Gateway</text>
+<text x="286" y="237" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">gw.vibemaestro.app</text>
+<text x="556" y="237" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="237" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">20 ms</text>
+<rect x="640" y="218" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="218" width="203" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="855" y="237" fill="#A7B6C2" font-size="12.5">8-46 ms observed</text>
+<rect x="56" y="252" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="252" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="271" fill="#F3F7F9" font-size="14" font-weight="600">Tier Gate</text>
+<text x="286" y="271" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">gate.vibemaestro.app</text>
+<text x="556" y="271" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="271" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">22 ms</text>
+<rect x="640" y="252" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="252" width="223" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="875" y="271" fill="#A7B6C2" font-size="12.5">8-56 ms observed</text>
+<rect x="56" y="286" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="286" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="305" fill="#F3F7F9" font-size="14" font-weight="600">Data / SDK Backend</text>
+<text x="286" y="305" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">data.vibemaestro.app</text>
+<text x="556" y="305" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="305" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">22 ms</text>
+<rect x="640" y="286" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="286" width="223" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="875" y="305" fill="#A7B6C2" font-size="12.5">9-41 ms observed</text>
+<rect x="56" y="320" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="320" width="5" height="28" rx="2.5" fill="#F5A524" stroke="#F5A524" stroke-width="1"/>
+<text x="76" y="339" fill="#F3F7F9" font-size="14" font-weight="600">Preview</text>
+<text x="286" y="339" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">preview.vibemaestro.app</text>
+<text x="556" y="339" fill="#F5A524" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">400</text>
+<text x="624" y="339" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">19 ms</text>
+<rect x="640" y="320" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="320" width="193" height="28" rx="5" fill="#F5A524" stroke="#F5A524" stroke-width="1"/>
+<text x="845" y="339" fill="#A7B6C2" font-size="12.5">7-37 ms observed  -  needs parameters</text>
+<rect x="56" y="354" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="354" width="5" height="28" rx="2.5" fill="#F5A524" stroke="#F5A524" stroke-width="1"/>
+<text x="76" y="373" fill="#F3F7F9" font-size="14" font-weight="600">Publish</text>
+<text x="286" y="373" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">publish.vibemaestro.app</text>
+<text x="556" y="373" fill="#F5A524" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">401</text>
+<text x="624" y="373" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">35 ms</text>
+<rect x="640" y="354" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="354" width="356" height="28" rx="5" fill="#F5A524" stroke="#F5A524" stroke-width="1"/>
+<text x="1008" y="373" fill="#A7B6C2" font-size="12.5">15-58 ms observed  -  needs auth</text>
+<rect x="56" y="388" width="1088" height="28" rx="5" fill="#161E27" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="56" y="388" width="5" height="28" rx="2.5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="407" fill="#F3F7F9" font-size="14" font-weight="600">Discord Bot</text>
+<text x="286" y="407" fill="#A7B6C2" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">bot.vibemaestro.app</text>
+<text x="556" y="407" fill="#4ADE80" font-size="13.5" font-weight="600" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">200</text>
+<text x="624" y="407" fill="#F3F7F9" font-size="13" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">33 ms</text>
+<rect x="640" y="388" width="356" height="28" rx="5" fill="#1E2833" stroke="#A7B6C2" stroke-width="1"/>
+<rect x="640" y="388" width="335" height="28" rx="5" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="987" y="407" fill="#A7B6C2" font-size="12.5">15-131 ms observed</text>
+<rect x="56" y="432" width="13" height="13" rx="3" fill="#4ADE80" stroke="#4ADE80" stroke-width="1"/>
+<text x="76" y="443" fill="#A7B6C2" font-size="13">answering 2xx</text>
+<rect x="56" y="456" width="13" height="13" rx="3" fill="#F5A524" stroke="#F5A524" stroke-width="1"/>
+<text x="76" y="467" fill="#A7B6C2" font-size="13">answering 4xx by design - still operational</text>
+<text x="56" y="500" fill="#A7B6C2" font-size="13">Preview requires parameters and Publish requires auth, so a 400 and a 401 are proof of life rather than faults.</text>
+<text x="56" y="522" fill="#A7B6C2" font-size="13">Codes are the status worker's own probe results against real health paths, not a naive fetch of each root URL.</text>
+</svg>
