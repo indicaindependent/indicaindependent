@@ -29,8 +29,9 @@ Some of the work below is done for **VPDLNY**. That part keeps its own counsel; 
 
 > ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) &#183; orchestral agentic AI
 > **Everything else on this page is built by this.** Four AI agents and one human holding a
-> single system upright. The architecture is engineered on the structure of Stephen King's
-> *Dark Tower* novels — not as decoration, but because that cosmology is already a
+> single system upright. The architecture is engineered on the structure of an epic quest
+> cycle — a fellowship bound to one task, radial supports around a central axis — not as
+> decoration, but because that shape is already a
 > **hub-and-spoke topology with guarded endpoints, an explicit integrity law, and a named
 > failure mode**, which is what a distributed agent system actually needs.
 
@@ -83,7 +84,7 @@ mapping to a component and the specific failure it forbids.
 | I widen when I am told | Scope lock | Granting yourself authority by reading an instruction generously |
 | I answer with what I checked | Line Zero | Every other failure above, upstream of all of them |
 
-*No text from the novels is reproduced; the creed is original and the avatars are original
+*No copyrighted text is reproduced; the creed is original and the avatars are original
 designs. [Attribution](https://github.com/indicaindependent/ka-tet/blob/main/ATTRIBUTION.md).*
 
 ---
