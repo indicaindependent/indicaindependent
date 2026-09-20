@@ -40,7 +40,6 @@ If your issue involves **harm to vulnerable people** (doxxing risk, targeted har
 ## Communication
 
 - **Public discussion:** [vpdlny-tools Discussions](https://github.com/indicaindependent/vpdlny-tools/discussions)
-- **Real-time:** [Indica Independent Media Discord](https://osintnet.uk/discord)
 - **Async / private:** Bluesky DM
 
 ---
