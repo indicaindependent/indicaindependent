@@ -42,8 +42,7 @@
 > puts a real conversation next to the live map. Dual-network, portable Windows build, no account
 > required.
 >
-> [voxterrae.app](https://voxterrae.app) is live. **The source repository is in review and lands
-> here shortly.**
+> [voxterrae.app](https://voxterrae.app) · [source](https://github.com/indicaindependent/voxterrae) · MIT
 
 > ### [**AXIOM**](https://github.com/indicaindependent/axiom) · autonomous Discord security
 > Four independent workers that moderate a live community and publish the method they use, so a
