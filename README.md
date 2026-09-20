@@ -8,7 +8,7 @@
 
 *No VC. No boss. Just code and conviction.*
 
-[warheatmap.app](https://warheatmap.app) · [osintnet.uk](https://osintnet.uk) · [vibemaestro.app](https://vibemaestro.app) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk) · [Discord](https://discord.osintnet.uk)
+[warheatmap.app](https://warheatmap.app) · [osintnet.uk](https://osintnet.uk) · [vibemaestro.app](https://vibemaestro.app) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk)
 
 </div>
 
@@ -82,6 +82,6 @@ Everything else lives in one of these, and each repo is still public on its own.
 
 <div align="center">
 
-`100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Discord](https://discord.osintnet.uk) · [Support the mission](https://donate.skygive.app)
+`100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Support the mission](https://donate.skygive.app)
 
 </div>
