@@ -14,12 +14,22 @@
 
 > ### [**warheatmap.app**](https://warheatmap.app)
 >
-> **Live global conflict intelligence, free.** An interactive heatmap carrying **6,983 individually
-> indexed conflict events** — every one with a date, a location, a named conflict, a severity tier
-> and **a cited source**. That last field is the whole point: this is a record of events, not a feed
-> of headlines.
+> **Live global conflict intelligence, free.** A world heatmap of conflict events, from Ukraine to
+> Gaza to Iran, where every event carries a date, a location, a named conflict, a severity tier and
+> **a cited source**. That last field is the whole point: this is a record of events, not a feed of
+> headlines.
 >
-> The most-used thing I have built. **No login, no paywall, no ads, no tracking.**
+> - **The map.** Heatmap and markers together, filterable by country, conflict, event type and
+>   severity. Any filtered view is a link you can share.
+> - **One page per event.** Every event has its own permanent page with its source, so a single
+>   strike can be cited, shared and checked.
+> - **Beyond the map.** A stats dashboard, a dedicated Ukraine intel tracker, and live market data
+>   alongside the events.
+> - **Talk.** The community meets in `#warheatmap` on EFnet, one click away through VoxTerrae.
+>
+> The most-used thing I have built, live since March 2026, with every change on the
+> [public record](https://github.com/indicaindependent/warheatmap/blob/main/CHANGELOG.md).
+> **No login, no paywall, no ads, no tracking.**
 >
 > [Open the map](https://warheatmap.app) · [source](https://github.com/indicaindependent/warheatmap) · MIT
 
