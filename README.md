@@ -19,8 +19,8 @@
 > **a cited source**. That last field is the whole point: this is a record of events, not a feed of
 > headlines.
 >
-> - **The map.** Heatmap and markers together, filterable by country, conflict, event type and
->   severity. Any filtered view is a link you can share.
+> - **The map.** Heatmap and markers together, filterable by country, tag and severity. Any
+>   filtered view is a link you can share.
 > - **One page per event.** Every event has its own permanent page with its source, so a single
 >   strike can be cited, shared and checked.
 > - **Beyond the map.** A stats dashboard, a dedicated Ukraine intel tracker, and live market data
