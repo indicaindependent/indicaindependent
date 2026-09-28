@@ -25,6 +25,16 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/warheatmap-coverage.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/warheatmap-coverage.svg" alt="WarHeatMap coverage measured 2026-09-20: 6,983 indexed event pages, 17 event types, 32 named conflicts, 168 distinct cited sources in a 260-event sample. Event types by share: airstrike 18.5%, diplomacy 13.5%, ground battle 11.9%, missile 10.4%, protest 9.2%, naval 8.1%. Severity: HIGH 53.1%, MEDIUM 30.8%, CRITICAL 12.3%, LOW 3.8%." width="100%"></picture>
 
+### Live right now
+
+<a href="https://indicaindependent.github.io/warheatmap/"><img src="https://indicaindependent.github.io/warheatmap/live-card.svg" alt="WarHeatMap live status, rebuilt about every 30 minutes from the public warheatmap.app feed: events in the last 24 hours and 7 days, countries covered, severity mix, and the five newest events with their sources." width="100%"></a>
+
+<a href="https://indicaindependent.github.io/warheatmap/"><img src="https://indicaindependent.github.io/warheatmap/live-map.svg" alt="The last 7 days of WarHeatMap events plotted on a world map and coloured by severity: critical, high, medium, low." width="100%"></a>
+
+These two images rebuild themselves about every 30 minutes from the public WarHeatMap feed. Click either one
+for the **[mini map](https://indicaindependent.github.io/warheatmap/)**: filter by severity and event type, open any event and its source. It reads the
+feed live in your browser, with no login and no tracking.
+
 ### What is on the map
 
 Figures below are **measured from the live site on 2026-09-20**, not estimated. Type and severity
