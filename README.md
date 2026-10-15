@@ -76,10 +76,10 @@ with the live card. Shares are of that window, not all-time totals, and the imag
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-light.svg" alt="" width="22" height="22" align="top"></picture> Featured work
 
 > ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) · orchestral agentic AI
-> Four AI agents and one human, bound to one task. The architecture everything else on this
+> Six AI agents and one human, bound to one task. The architecture everything else on this
 > account is now built with — a fellowship with a shared purpose, not a prompt chain.
 >
-> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg" alt="The ka-tet roster: four agent seats and the human dinh at the centre." width="100%"></picture>
+> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg" alt="The ka-tet roster: the human Master and six agent seats, with the Archivist the only one that publishes." width="100%"></picture>
 
 > ### [**VoxTerrae**](https://voxterrae.app) · the door from the map to the room
 > *Vox terrae* — voice of the earth. A WarHeatMap-branded IRC client (Python / PySide6, MIT) that
