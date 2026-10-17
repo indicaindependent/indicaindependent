@@ -126,6 +126,15 @@ Everything else lives in one of these, and each repo is still public on its own.
 
 <div align="center">
 
+<a href="https://indicaindependent.github.io/nfo-forge/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/nfo-forge/main/docs/iim/iim-mini-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indicaindependent/nfo-forge/main/docs/iim/iim-mini-light.png"><img src="https://raw.githubusercontent.com/indicaindependent/nfo-forge/main/docs/iim/iim-mini-dark.png" alt="A boxed release-file badge reading Indica Independent Media, 100% Creative Clarity, made with NFO Forge. Select it to open NFO Forge and design your own." width="420"></picture></a>
+<br><sub>Make your own release file with <a href="https://indicaindependent.github.io/nfo-forge/">NFO Forge</a> · <a href="https://github.com/indicaindependent/nfo-forge">source</a> · MIT</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 `100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk) · [Support the mission](https://donate.skygive.app)
 
 <a href="https://app.base44.com/@indica?badge=maker_dna"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-maker-dna.svg" alt="Base44 badge: Maker DNA" title="Base44 badge: Maker DNA" width="28" height="28"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=automation_architect"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-automation-architect.svg" alt="Base44 badge: Automation Architect" title="Base44 badge: Automation Architect" width="28" height="28"></a>
