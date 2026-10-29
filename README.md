@@ -6,7 +6,7 @@
 
 *No VC. No boss. Just code and conviction.*
 
-<a href="https://app.base44.com/@indica?badge=maker_dna"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-maker-dna.svg" alt="Base44 badge: Maker DNA" title="Base44 badge: Maker DNA" width="72" height="72"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=automation_architect"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-automation-architect.svg" alt="Base44 badge: Automation Architect" title="Base44 badge: Automation Architect" width="72" height="72"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=ai_native"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-ai-native.svg" alt="Base44 badge: AI Native" title="Base44 badge: AI Native" width="72" height="72"></a>
+<a href="https://app.base44.com/@indica"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-badges-panel.svg" alt="Base44 badges earned by Indica Independent Media: Maker tier, Maker DNA, AI Native, Automation Architect" title="Base44 badges, links to the Base44 profile" width="720"></a>
 
 </div>
 
