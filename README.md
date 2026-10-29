@@ -6,6 +6,8 @@
 
 *No VC. No boss. Just code and conviction.*
 
+<a href="https://app.base44.com/@indica?badge=maker_dna"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-maker-dna.svg" alt="Base44 badge: Maker DNA" title="Base44 badge: Maker DNA" width="72" height="72"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=automation_architect"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-automation-architect.svg" alt="Base44 badge: Automation Architect" title="Base44 badge: Automation Architect" width="72" height="72"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=ai_native"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-ai-native.svg" alt="Base44 badge: AI Native" title="Base44 badge: AI Native" width="72" height="72"></a>
+
 </div>
 
 ---
@@ -136,8 +138,5 @@ Everything else lives in one of these, and each repo is still public on its own.
 <div align="center">
 
 `100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk) · [Support the mission](https://donate.skygive.app)
-
-<a href="https://app.base44.com/@indica?badge=maker_dna"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-maker-dna.svg" alt="Base44 badge: Maker DNA" title="Base44 badge: Maker DNA" width="28" height="28"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=automation_architect"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-automation-architect.svg" alt="Base44 badge: Automation Architect" title="Base44 badge: Automation Architect" width="28" height="28"></a>&nbsp;<a href="https://app.base44.com/@indica?badge=ai_native"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-ai-native.svg" alt="Base44 badge: AI Native" title="Base44 badge: AI Native" width="28" height="28"></a>
-<br><sub>Base44 badges</sub>
 
 </div>
