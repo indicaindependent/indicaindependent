@@ -6,8 +6,6 @@
 
 *No VC. No boss. Just code and conviction.*
 
-<a href="https://app.base44.com/@indica"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-badges-panel.svg" alt="Base44 badges earned by Indica Independent Media: Maker tier, Maker DNA, AI Native, Automation Architect" title="Base44 badges, links to the Base44 profile" width="720"></a>
-
 </div>
 
 ---
@@ -138,5 +136,7 @@ Everything else lives in one of these, and each repo is still public on its own.
 <div align="center">
 
 `100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk) · [Support the mission](https://donate.skygive.app)
+
+<a href="https://app.base44.com/@indica"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-badges-panel.svg" alt="Base44 badges earned by Indica Independent Media: Maker tier, Maker DNA, AI Native, Automation Architect" title="Base44 badges, links to the Base44 profile" width="720"></a>
 
 </div>
