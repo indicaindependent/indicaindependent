@@ -139,4 +139,6 @@ Everything else lives in one of these, and each repo is still public on its own.
 
 <a href="https://app.base44.com/@indica"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-badges-panel.svg" alt="Base44 badges earned by Indica Independent Media: Maker tier, Maker DNA, AI Native, Automation Architect" title="Base44 badges, links to the Base44 profile" width="720"></a>
 
+<sub>My entry in the <a href="https://app.base44.com/launchpad/contests/spooky-showdown">Base44 Spooky Showdown</a>: <a href="https://github.com/indicaindependent/possessed">POSSESSED</a></sub>
+
 </div>
