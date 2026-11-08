@@ -25,7 +25,7 @@
 >   strike can be cited, shared and checked.
 > - **Beyond the map.** A stats dashboard, a dedicated Ukraine intel tracker, and live market data
 >   alongside the events.
-> - **Talk.** The community meets in `#warheatmap` on EFnet, one click away through VoxTerrae.
+> - **Talk.** The community meets in `#warheatmap` on EFnet.
 >
 > The most-used thing I have built, live since March 2026, with every change on the
 > [public record](https://github.com/indicaindependent/warheatmap/blob/main/CHANGELOG.md).
@@ -80,13 +80,6 @@ with the live card. Shares are of that window, not all-time totals, and the imag
 > account is now built with — a fellowship with a shared purpose, not a prompt chain.
 >
 > <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg" alt="The ka-tet roster: the human Master and six agent seats, with the Archivist the only one that publishes." width="100%"></picture>
-
-> ### [**VoxTerrae**](https://voxterrae.app) · the door from the map to the room
-> *Vox terrae* — voice of the earth. A WarHeatMap-branded IRC client (Python / PySide6, MIT) that
-> puts a real conversation next to the live map. Dual-network, portable Windows build, no account
-> required.
->
-> [voxterrae.app](https://voxterrae.app) · [source](https://github.com/indicaindependent/voxterrae) · MIT
 
 > ### [**AXIOM**](https://github.com/indicaindependent/axiom) · autonomous community security
 > Four independent workers that moderate a live community and publish the method they use, so an
