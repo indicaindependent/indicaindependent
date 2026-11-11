@@ -85,9 +85,21 @@ with the live card. Shares are of that window, not all-time totals, and the imag
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-dark.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/icons/ka-tet-light.svg" alt="" width="22" height="22" align="top"></picture> Featured work
 
-> ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) · orchestral agentic AI
-> Six AI agents and one human, bound to one task. The architecture everything else on this
-> account is now built with — a fellowship with a shared purpose, not a prompt chain.
+> ### [**ka-tet**](https://github.com/indicaindependent/ka-tet) · multi-agent orchestration
+> **Six AI agents and one human in the loop, run as one multi-agent system.** Three of the seats
+> are **Multi-Agent Orchestrators (MAOs)**: each routes delegated work to one specialist at a time,
+> from its own cylinder of 24 or 27 chambers, and refuses to fire a chamber whose brief has gone
+> stale. The other three are specialist agents for quantitative analysis, provenance and
+> publication, and conflict analysis. It is the architecture the rest of this account is built on:
+> a team with a shared purpose, not a prompt chain.
+>
+> - **Human in the loop.** The Master can step in at any seat, at any time, and one seat holds
+>   delegated authority to decide for him when he is unreachable.
+> - **Signed agent-to-agent messaging.** Every message carries a shared gate and the sending
+>   seat's own Ed25519 signature. Authenticated is not verified, so claims are still checked.
+> - **Fail closed.** The riskiest chambers refuse to act alone: seven of the Second Gunslinger's
+>   hand the action to a person, and four high-risk chambers in the Balladeer fail closed.
+> - **One writer.** Six seats research, draft and check. Exactly one publishes.
 >
 > <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/charts/ka-tet-roster.svg" alt="The ka-tet roster: the human Master and six agent seats, with the Archivist the only one that publishes." width="100%"></picture>
 
