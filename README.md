@@ -35,17 +35,17 @@
 
 ### Live right now
 
-<a href="https://indicaindependent.github.io/warheatmap/"><img src="https://indicaindependent.github.io/warheatmap/live-card.svg" alt="WarHeatMap live status, rebuilt about every 30 minutes from the public warheatmap.app feed: events in the last 24 hours and 7 days, countries covered, severity mix, and the five newest events with their sources." width="100%"></a>
+<a href="https://indicaindependent.github.io/warheatmap-live/"><img src="https://indicaindependent.github.io/warheatmap-live/live-card.svg" alt="WarHeatMap live status, rebuilt about every 30 minutes from the public warheatmap.app feed: events in the last 24 hours and 7 days, countries covered, severity mix, and the five newest events with their sources." width="100%"></a>
 
-<a href="https://indicaindependent.github.io/warheatmap/"><img src="https://indicaindependent.github.io/warheatmap/live-map.svg" alt="The last 7 days of WarHeatMap events plotted on a world map and coloured by severity: critical, high, medium, low." width="100%"></a>
+<a href="https://indicaindependent.github.io/warheatmap-live/"><img src="https://indicaindependent.github.io/warheatmap-live/live-map.svg" alt="The last 7 days of WarHeatMap events plotted on a world map and coloured by severity: critical, high, medium, low." width="100%"></a>
 
 These two images rebuild themselves about every 30 minutes from the public WarHeatMap feed. Click either one
-for the **[mini map](https://indicaindependent.github.io/warheatmap/)**: filter by severity and event type, open any event and its source. It reads the
+for the **[mini map](https://indicaindependent.github.io/warheatmap-live/)**: filter by severity and event type, open any event and its source. It reads the
 feed live in your browser, with no login and no tracking.
 
 ### What is on the map
 
-<a href="https://indicaindependent.github.io/warheatmap/"><img src="https://indicaindependent.github.io/warheatmap/live-mix.svg" alt="WarHeatMap live event mix: the newest 500 events in the public warheatmap.app feed, broken down by event type and severity, with counts of named conflicts and cited sources. Rebuilt with the live card." width="100%"></a>
+<a href="https://indicaindependent.github.io/warheatmap-live/"><img src="https://indicaindependent.github.io/warheatmap-live/live-mix.svg" alt="WarHeatMap live event mix: the newest 500 events in the public warheatmap.app feed, broken down by event type and severity, with counts of named conflicts and cited sources. Rebuilt with the live card." width="100%"></a>
 
 Event types, severity, named conflicts and cited sources for the newest 500 events on the map, rebuilt
 with the live card. Shares are of that window, not all-time totals, and the image prints its own dates.
@@ -131,7 +131,5 @@ Everything else lives in one of these, and each repo is still public on its own.
 `100% Creative Clarity` · [osintnet.uk](https://osintnet.uk) · [Bluesky](https://bsky.app/profile/indica.osintnet.uk) · [Donate to Ukraine's defense (UNITED24)](https://u24.gov.ua/donate/defense)
 
 <a href="https://app.base44.com/@indica"><img src="https://raw.githubusercontent.com/indicaindependent/indicaindependent/main/assets/badges/base44-badges-panel.svg" alt="Base44 badges earned by Indica Independent Media: Maker tier, Maker DNA, AI Native, Automation Architect" title="Base44 badges, links to the Base44 profile" width="720"></a>
-
-<sub>My entry in the <a href="https://app.base44.com/launchpad/contests/spooky-showdown">Base44 Spooky Showdown</a>: <a href="https://github.com/indicaindependent/possessed">POSSESSED</a></sub>
 
 </div>
