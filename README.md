@@ -27,11 +27,10 @@
 >   alongside the events.
 > - **Talk.** The community meets in `#warheatmap` on EFnet.
 >
-> The most-used thing I have built, live since March 2026, with every change on the
-> [public record](https://github.com/indicaindependent/warheatmap/blob/main/CHANGELOG.md).
+> The most-used thing I have built, live since March 2026.
 > **No login, no paywall, no ads, no tracking.**
 >
-> [Open the map](https://warheatmap.app) · [source](https://github.com/indicaindependent/warheatmap) · MIT
+> [Open the map](https://warheatmap.app)
 
 ### Live right now
 
