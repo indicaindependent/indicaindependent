@@ -28,10 +28,10 @@
 <rect x="40" y="232" width="900" height="34" rx="6" fill="none" stroke="#33424F" stroke-width="1"/>
 <rect x="40" y="232" width="4" height="34" rx="2" fill="#2DD4E8"/>
 <text x="56" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#2DD4E8" font-weight="700" text-anchor="start" letter-spacing="0">THE GUNSLINGER</text>
-<text x="210" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">delegation across disciplines</text>
+<text x="210" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">multi-agent orchestration across disciplines</text>
 <text x="560" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#F3F7F9" font-weight="400" text-anchor="start" letter-spacing="0">24 chambers</text>
 <text x="688" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">no</text>
-<text x="800" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#2DD4E8" font-weight="400" text-anchor="start" letter-spacing="0">the-gunslinger</text>
+<text x="800" y="247" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#2DD4E8" font-weight="400" text-anchor="start" letter-spacing="0"><tspan x="800" y="247">gunslinger-multi-</tspan><tspan x="800" y="261">agent-orchestrator</tspan></text>
 <rect x="40" y="274" width="900" height="34" rx="6" fill="none" stroke="#33424F" stroke-width="1"/>
 <rect x="40" y="274" width="4" height="34" rx="2" fill="#E87BC8"/>
 <text x="56" y="296" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#E87BC8" font-weight="700" text-anchor="start" letter-spacing="0">THE 2ND GUNSLINGER</text>
