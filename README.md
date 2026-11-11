@@ -15,22 +15,33 @@
 > ### [**warheatmap.app**](https://warheatmap.app)
 >
 > **Live global conflict intelligence, free.** A world heatmap of conflict events, from Ukraine to
-> Gaza to Iran, where every event carries a date, a location, a named conflict, a severity tier and
+> Gaza to Iran. Every event carries a date, a location, a named conflict, a severity tier and
 > **a cited source**. That last field is the whole point: this is a record of events, not a feed of
 > headlines.
 >
-> - **The map.** Heatmap and markers together, filterable by country, tag and severity. Any
+> - **The map.** Heatmap and markers together, filterable by country, tag and severity. Every
 >   filtered view is a link you can share.
-> - **One page per event.** Every event has its own permanent page with its source, so a single
+> - **One page per event.** Each event has its own permanent page with its source, so a single
 >   strike can be cited, shared and checked.
 > - **Beyond the map.** A stats dashboard, a dedicated Ukraine intel tracker, and live market data
 >   alongside the events.
-> - **Talk.** The community meets in `#warheatmap` on EFnet.
 >
-> The most-used thing I have built, live since March 2026.
+> Live since March 2026, and the most-used thing I have built.
 > **No login, no paywall, no ads, no tracking.**
 >
-> [Open the map](https://warheatmap.app)
+> **[Open the map](https://warheatmap.app)**
+
+> #### Talk: #warheatmap
+>
+> One community, two doors. Use Discord if you have it, IRC if you don't.
+>
+> | Discord | IRC on EFnet |
+> |:---|:---|
+> | **[Join the Discord](https://discord.osintnet.uk/)** | **[Chat in your browser](https://chat.efnet.org/#warheatmap)**, nothing to install |
+> | Free account, any device | Or any IRC client: `irc.efnet.org`, port 6697 (TLS), channel `#warheatmap` |
+>
+> House rules: be civil, no doxxing, sources over walls of text. More on the
+> [Talk page](https://warheatmap.app/Talk).
 
 ### Live right now
 
