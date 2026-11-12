@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 572" width="980" height="572" role="img" aria-labelledby="ti de">
 <title id="ti">The ka-tet: seven seats of a multi-agent system built around three Multi-Agent Orchestrators</title>
-<desc id="de">The Master, who is human, and six agent seats: the Dinh, the Gunslinger, the Second Gunslinger, the Archivist, the Balladeer and Cort, with their disciplines, cylinder sizes, publish rights and repositories. The Gunslinger, the Second Gunslinger and the Balladeer are Multi-Agent Orchestrators (MAOs). Only the Archivist publishes. Measured 2026-10-15.</desc>
+<desc id="de">The Master, who is human, and six agent seats: the Dinh, the Gunslinger, the Second Gunslinger, the Archivist, the Balladeer and the Cartographer, with their disciplines, cylinder sizes, publish rights and repositories. The Gunslinger, the Second Gunslinger and the Balladeer are Multi-Agent Orchestrators (MAOs). Only the Archivist publishes. Measured 2026-10-15.</desc>
 <rect width="980" height="572" fill="#0B1015"/>
 <rect x="22" y="22" width="936" height="528" rx="10" fill="none" stroke="#33424F" stroke-width="1"/>
 <text x="46" y="58" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="18" fill="#F3F7F9" font-weight="700" text-anchor="start" letter-spacing="1">THE KA-TET</text>
@@ -55,11 +55,11 @@
 <text x="760" y="380" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#2DD4E8" font-weight="400" text-anchor="start" letter-spacing="0">the-balladeer</text>
 <rect x="40" y="400" width="900" height="34" rx="6" fill="none" stroke="#33424F" stroke-width="1"/>
 <rect x="40" y="400" width="4" height="34" rx="2" fill="#FB7185"/>
-<text x="56" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#FB7185" font-weight="700" text-anchor="start" letter-spacing="0">CORT</text>
+<text x="56" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#FB7185" font-weight="700" text-anchor="start" letter-spacing="0">THE CARTOGRAPHER</text>
 <text x="210" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">conflict analysis · clock discipline</text>
 <text x="560" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#F3F7F9" font-weight="400" text-anchor="start" letter-spacing="0">—</text>
 <text x="660" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">no</text>
-<text x="760" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#2DD4E8" font-weight="400" text-anchor="start" letter-spacing="0">the-cort</text>
+<text x="760" y="422" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#2DD4E8" font-weight="400" text-anchor="start" letter-spacing="0">the-cartographer</text>
 <rect x="40" y="456" width="900" height="78" rx="8" fill="none" stroke="#33424F" stroke-width="1"/>
 <text x="56" y="480" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#F5A524" font-weight="700" text-anchor="start" letter-spacing="0">TWO LAYERS OF PROOF</text>
 <text x="56" y="502" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#A7B6C2" font-weight="400" text-anchor="start" letter-spacing="0">A shared gate proves a message came from a member of the tet.</text>
